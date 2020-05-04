@@ -7,10 +7,11 @@ int main(int argc, char **argv) {
     int W = 512;
     int H = 512;
     double f = 350;
+    int NB_path = 500;
     Scene scene(W, H, f);
 
 // then scan all pixels
-    uint8_t* img = scene.scan().pixels;
+    uint8_t* img = scene.scan(NB_path).pixels;
 // save image and return 0
     
     stbi_write_png("image.png", W, H, 3, &img[0], 0);

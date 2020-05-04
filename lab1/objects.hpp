@@ -59,8 +59,7 @@ public:
     Intersection closest(Ray* ray);
     Vector get_color(Ray* ray, int ray_depth);
     void set_color(int x, int y, Vector color);
-    Image scan_center();
-    Image scan();
+    Image scan(int NB_path);
 
     Camera camera;
     Light light;

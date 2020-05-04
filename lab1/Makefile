@@ -8,7 +8,7 @@ main:$(objects)
 main.o: main.cpp objects.o vector.o
 	$(CC) $(CFLAGS) -c main.cpp -o main.o
 
-objects.o: objects.cpp objects.hpp vector.o functions.hpp
+objects.o: objects.cpp objects.hpp vector.o
 	$(CC) $(CFLAGS) -c objects.cpp -o objects.o
 
 vector.o: vector.cpp vector.hpp

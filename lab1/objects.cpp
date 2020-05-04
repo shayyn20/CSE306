@@ -103,9 +103,6 @@ Intersection Scene::closest(Ray* ray) {
 
 Vector Scene::get_color(Ray* ray, int ray_depth) {
     if (ray_depth < 0) {
-        //if (this->sphere_collection[this->closest(ray).index].type == "transparent" && ray_depth < 1) {
-        //    printf("shit \n");
-        //}
         return Vector(0, 0, 0);
     }
 
@@ -157,17 +154,17 @@ Vector Scene::get_color(Ray* ray, int ray_depth) {
             double radicand = 1 - (pow((n1/n2), 2) * (1 - pow(dot(N, wi), 2)));
 
             // Fresnel law
-            //double k0 = pow(((n1 - n2)/(n1 + n2)), 2);
-            //double R = k0 + (1 - k0) * pow((1 - abs(dot(N, wi))), 5);
-            //double ran = (double) rand() / (RAND_MAX);
-            //
-            //if (ran < R) {
-            //    Vector w = wi - N * (2 * dot(N, wi));
-            //    Ray refl = Ray(P, w);
-            //    color = get_color(&refl, ray_depth - 1);
-            //}
-            //
-            //else {
+            double k0 = pow(((n1 - n2)/(n1 + n2)), 2);
+            double R = k0 + (1 - k0) * pow((1 - abs(dot(N, wi))), 5);
+            double ran = (double) rand() / (RAND_MAX);
+            
+            if (ran < R) {
+                Vector w = wi - N * (2 * dot(N, wi));
+                Ray refl = Ray(P, w);
+                color = get_color(&refl, ray_depth - 1);
+            }
+            
+            else {
                 if (radicand < 0) {
                     Vector w = wi - N * (2 * dot(N, wi));
                     Ray refl = Ray(P, w);
@@ -186,7 +183,7 @@ Vector Scene::get_color(Ray* ray, int ray_depth) {
                     Ray refr = Ray(P, w);
                     color = get_color(&refr, ray_depth - 1);
                 }
-            //}
+            }
         }
     }
     return color;
@@ -199,31 +196,7 @@ void Scene::set_color(int x, int y, Vector color) {
     this->image.pixels[y * this->image.width * 3 + x*3 + 2] = min(255., pow(color[2], 1/gamma)*255);
 }
 
-Image Scene::scan_center() {
-    int W = this->image.width;
-    int H = this->image.height;
-    double f = this->camera.distance;
-    double Qx = this->camera.center[0];
-    double Qy = this->camera.center[1];
-    double Qz = this->camera.center[2];
-    for (int i = 0; i < H; ++i) {
-        for (int j = 0; j < W; ++j) {
-            int x = j;
-            int y = H-i-1;
-            Vector ray_direct(Qx + x + 0.5 - W/2, Qy + y + 0.5 - H/2, Qz - f);
-            Vector ray_unit = normalize(ray_direct - this->camera.center);
-            Ray ray(this->camera.center, ray_unit);
-            Intersection intsect = this->center_sphere.intersect(&ray);
-            if (intsect.exists) {
-                Vector color = this->center_sphere.albedo;
-                set_color(x, H-y-1, color);
-            }
-        }
-    }
-    return this->image;
-}
-
-Image Scene::scan() {
+Image Scene::scan(int NB_path) {
     int W = this->image.width;
     int H = this->image.height;
     double f = this->camera.distance;
@@ -235,10 +208,14 @@ Image Scene::scan() {
         for (int j = 0; j < W; ++j) {
             int x = j;
             int y = i;
+            Vector color;
             Vector ray_direct(Qx + x + 0.5 - W/2, Qy + y + 0.5 - H/2, Qz - f);
             Vector ray_unit = normalize(ray_direct - this->camera.center);
             Ray ray(this->camera.center, ray_unit);
-            Vector color = get_color(&ray, 2);
+            for (int k = 0; k < NB_path; ++k) {
+                color = color + get_color(&ray, 2);
+            }
+            color = color / NB_path;
             set_color(x, H-y-1, color);
         }
     }
