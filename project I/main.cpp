@@ -13,6 +13,7 @@ int main(int argc, char **argv) {
     double f = 350;
     int NB_path = atoi(argv[1]);
     Scene scene(W, H, f);
+    
 // then scan all pixels
     vector<uint8_t> img = scene.scan(NB_path, 3).pixels;
 
