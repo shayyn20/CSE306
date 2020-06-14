@@ -17,7 +17,7 @@ public:
         }
     }
 
-    int run(std::vector<Vector>& points, std::vector<double>& weights, double f = 1) {
+    std::vector<double> run(std::vector<Vector>& points, double f) {
         lbfgsfloatval_t fx;
         int N = int(points.size());
         this->points = points;
@@ -26,53 +26,55 @@ public:
         lbfgsfloatval_t *m_x = lbfgs_malloc(N);
         /* Initialize the weights. */
         for (int i = 0; i < N; i ++) {
-            m_x[i] = weights[i];
+            m_x[i] = 1;
         }
 
-        /*
-            Start the L-BFGS optimization; this will invoke the callback functions
-            evaluate() and progress() when necessary.
-         */
         int ret = lbfgs(N, m_x, &fx, _evaluate, NULL, this, NULL);
 
         /* Report the result. */
         printf("L-BFGS optimization terminated with status code = %d\n", ret);
-        printf("  fx = %f, x[0] = %f, x[1] = %f\n", fx, m_x[0], m_x[1]);
+        printf("  fx = %f \n", fx);
         for (int i = 0; i < N; i ++) {
             printf("x[%d] = %f \n", i, m_x[i]);
         }
+        std::vector<double> res;
+        for (int i = 0; i < N; i ++) {
+            res.push_back(m_x[i]);
+        }
         
-        return ret;
+        return res;
     }
 
 protected:
-    static lbfgsfloatval_t _evaluate(   void *instance, 
-                                        const lbfgsfloatval_t *x, 
-                                        lbfgsfloatval_t *g,
-                                        const int n, 
-                                        const lbfgsfloatval_t step) {
+    static lbfgsfloatval_t _evaluate(void *instance, const lbfgsfloatval_t *x, lbfgsfloatval_t *g, const int n, const lbfgsfloatval_t step) {
         return reinterpret_cast<objective_function*>(instance)->evaluate(x, g, n, step);
     }
 
-    lbfgsfloatval_t evaluate(   const lbfgsfloatval_t *x, // weights
-                                lbfgsfloatval_t *g, 
-                                const int n, // number of weights
-                                const lbfgsfloatval_t step) {
+    lbfgsfloatval_t evaluate(const lbfgsfloatval_t *x, lbfgsfloatval_t *g, const int n, const lbfgsfloatval_t step) {
         lbfgsfloatval_t fx = 0.0;
-        std::vector<double> ws;
+
+        std::vector<double> weights;
         for (int i = 0; i < n; i ++) {
-            ws.push_back(x[i]);
-            printf("w[%d] = %f \n", i, x[i]);
+            weights.push_back(x[i]);
+            //printf("w[%d] = %f \n", i, x[i]);
         }
 
+        std::vector<Polygon> cells = powerDiagram(points, weights);
+
         for (int i = 0; i < n; i ++) {
-            // printf("%d \n", i);
-            g[i] = - g_grad(points, i, ws, f);
-            printf("grad = %f \n", g[i]);
+            g[i] = - g_grad(points[i], cells[i], f);
+            // printf("grad = %f \n", g[i]);
         }
-        fx = - g_func(points, ws, f);
-        printf("f = %f \n", fx);
+
+        fx = - g_func(points, weights, f);
+        printf("g = %f \n", fx);
+
         return fx;
     }
 };
+
+std::vector<double> optimalTransport(std::vector<Vector>& points, double f = 1) {
+    objective_function obj;
+    return obj.run(points, f);
+}
 

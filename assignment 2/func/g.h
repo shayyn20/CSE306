@@ -1,4 +1,5 @@
 #include "pd.h"
+#include <string>
 
 double polygonArea(Polygon polygon) {
     double area = 0; 
@@ -24,25 +25,24 @@ double integral(Polygon cell, Vector Pi) {
     return sum/12;
 }
 
+double lambda(Vector point) {
+    Vector center(0.5, 0.5);
+    return exp(-norm(point - center)/0.02);
+}
+
 double g_func(std::vector<Vector>& points, std::vector<double>& weights, double f = 1) {
     // function g
-    Polygon subj = QUAD;
     double sum = 0;
+    std::vector<Polygon> cells = powerDiagram(points, weights);
     for (int i = 1; i < int(points.size()); i ++) {
-        Polygon cell = sutherlandHodgman_pow(subj, points, weights, i);
+        Polygon cell = cells[i];
         double area = polygonArea(cell);
-        sum += f * (integral(cell, points[i]) - weights[i] * area) + area * weights[i];
+        sum += f * (integral(cell, points[i]) - weights[i] * area) + lambda(points[i]) * weights[i];
     }
     return sum;
 }
 
-double g_grad(std::vector<Vector>& points, int i, std::vector<double>& weights, double f = 1) {
-    Polygon subj = QUAD;
-    Polygon cell = sutherlandHodgman_pow(subj, points, weights, i);
-    //for (int i = 0; i < int(cell.vertices.size()); i++) {
-    //    printf("(%f, %f) \n", cell.vertices[i][0], cell.vertices[i][1]);
-    //}
+double g_grad(Vector& point, Polygon cell, double f = 1) {
     double area = polygonArea(cell);
-    //printf("area: %f \n", area);
-    return - f * area + area;
+    return - f * area + lambda(point);
 }
