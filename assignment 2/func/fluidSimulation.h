@@ -1,9 +1,9 @@
 #include "gradientAscent.h"
 
 Generator generator;
-Vector Fg(0, 0.1);
+Vector Fg(0, -100);
 
-std::vector<Particle> init_fluid(int N = 80, double mass = 0.4) {
+std::vector<Particle> init_fluid(int N = 100, double mass = 0.4) {
     std::vector<Particle> fluid;
     std::vector<Vector> pos = generateRandomPoints(N, generator);
     for (int i = 0; i < N; i ++) {
@@ -13,7 +13,7 @@ std::vector<Particle> init_fluid(int N = 80, double mass = 0.4) {
     return fluid;
 }
 
-std::vector<Particle> init_air(int M = 120, double mass = 0.6) {
+std::vector<Particle> init_air(int M = 80, double mass = 0.6) {
     std::vector<Particle> air;
     std::vector<Vector> pos = generateRandomPoints(M, generator, false);
     pos = lloydIteration_vor(pos);
@@ -67,6 +67,7 @@ std::vector<Particle> gallouetMerigot(std::vector<Particle> particles, double dt
     for (int i = 0; i < int(particles.size()); i ++) {
         Vector Fspr = (centroid(cells[i]) - pos[i]) / (eps * eps);
         Vector F = Fspr + Fg;
+        // printf("Fspr = (%f, %f), F = (%f, %f) \n", Fspr[0], Fspr[1], F[0], F[1]);
         v[i] = v[i] + dt * F / m[i];
         pos[i] = pos[i] + dt * v[i];
 
@@ -79,7 +80,7 @@ std::vector<Particle> gallouetMerigot(std::vector<Particle> particles, double dt
                 pos[i][0] = 2 - pos[i][0];
                 v[i][0] = - v[i][0];
             }
-            if (pos[i][1] < 0) {
+            if (pos[i][1] <= 0) {
                 pos[i][1] = - pos[i][1];
                 v[i][1] = - v[i][1];
             }
@@ -92,22 +93,38 @@ std::vector<Particle> gallouetMerigot(std::vector<Particle> particles, double dt
     return retrieve_particles(pos, v, m);
 }
 
-void simulation(double dt = 0.002, double eps = 0.004) {
-    std::vector<Particle> fluid = init_fluid();
+void simulation(double dt = 0.0005, double eps = 0.04) {
+    std::vector<Particle> nextFrame = init_fluid();
     // std::vector<Particle> air = init_air();
 
-    std::vector<Vector> pos = get_position(fluid);
-    //std::vector<double> weights = optimalTransport(pos, 1, "uniform");
-    //std::vector<Polygon> p = powerDiagram(pos, weights);
-    std::vector<Polygon> p = voronoiParalLinEnum(pos);
-    save_svg_with_point(p, pos, "fluid.svg");
+    std::vector<Vector> pos = get_position(nextFrame);
+    
+    // ParticleWeight pw = optimalTransport_fluid(pos, 1);
+    // std::vector<double> wf = pw.fluid;
+    // std::vector<Polygon> p = powerDiagram(pos, wf);
 
-    std::vector<Particle> nextFrame = gallouetMerigot(fluid, dt, eps);
-    pos = get_position(nextFrame);
-    //weights = optimalTransport(pos, 1, "uniform");
-    //p = powerDiagram(pos, weights);
-    p = voronoiParalLinEnum(pos);
-    save_svg_with_point(p, pos, "fluid2.svg");
+    std::vector<Polygon> p; // = voronoiParalLinEnum(pos);
+    save_svg_animated_with_point(p, pos, "fluid.svg", 0, 40);
+    // save_frame(p, "fluid", 0);
+    for (int i = 1; i < 40; i ++) {
+        nextFrame = gallouetMerigot(nextFrame, dt, eps);
+        pos = get_position(nextFrame);
+
+        // pw = optimalTransport_fluid(pos, 1);
+        // wf = pw.fluid;
+        // p = powerDiagram(pos, wf);
+        // p = voronoiParalLinEnum(pos);
+        // save_frame(p, "fluid", i);
+        save_svg_animated_with_point(p, pos, "fluid.svg", i, 40);
+    }
+    
+
+    // std::vector<Particle> nextFrame = gallouetMerigot(fluid, dt, eps);
+    // pos = get_position(nextFrame);
+    // //weights = optimalTransport(pos, 1, "uniform");
+    // //p = powerDiagram(pos, weights);
+    // p = voronoiParalLinEnum(pos);
+    // save_svg_with_point(p, pos, "fluid2.svg");
 }
 
 

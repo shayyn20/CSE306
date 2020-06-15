@@ -26,7 +26,7 @@ double integral(const Polygon cell, const Vector Pi) {
 }
 
 Vector centroid(Polygon cell) {
-    double A = polygonArea(cell);
+    double A = polygonArea(cell) + 1e-6; // avoid empty
     int n = int(cell.vertices.size());
     double cx = 0;
     double cy = 0;

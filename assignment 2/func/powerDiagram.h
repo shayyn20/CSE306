@@ -4,7 +4,7 @@
 
 std::vector<Polygon> powerDiagram(const std::vector<Vector>& points, const std::vector<double>& weights) {
     std::vector<Polygon> out;
-    // #pragma omp parallel // for schedule(dynamic, 1)
+// #pragma omp parallel for schedule(dynamic)
     for (int i = 0; i < int(points.size()); i++) {
         Polygon subj = QUAD;
         const Polygon cell = sutherlandHodgman_pow(subj, points, weights, i);

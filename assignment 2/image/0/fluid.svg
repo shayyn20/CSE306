@@ -1,0 +1,1954 @@
+<svg xmlns = "http://www.w3.org/2000/svg" width = "1000" height = "1000">
+<g>
+<g>
+<polygon points = "520.524, 352.358 520.890, 478.598 560.702, 550.718 613.809, 553.697 635.031, 527.065 670.855, 443.761 "
+fill = "none" stroke = "black"/>
+<polygon points = "495.971, 770.591 472.515, 762.654 417.605, 762.639 412.109, 763.877 403.896, 785.119 433.152, 999.000 546.202, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "403.896, 785.119 340.683, 873.414 381.653, 999.000 433.152, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "817.274, 723.862 752.168, 745.499 695.279, 845.667 750.477, 999.000 999.000, 999.000 999.000, 872.347 "
+fill = "none" stroke = "black"/>
+<polygon points = "713.115, 429.817 670.855, 443.761 635.031, 527.065 755.406, 578.381 800.850, 522.674 "
+fill = "none" stroke = "black"/>
+<polygon points = "517.504, 768.114 614.231, 679.324 617.879, 565.405 613.809, 553.697 560.702, 550.718 521.072, 576.152 472.515, 762.654 495.971, 770.591 "
+fill = "none" stroke = "black"/>
+<polygon points = "827.291, 684.474 843.118, 665.244 873.444, 530.972 800.850, 522.674 755.406, 578.381 749.003, 601.189 "
+fill = "none" stroke = "black"/>
+<polygon points = "265.249, 390.550 1.000, 489.126 1.000, 505.143 35.415, 531.215 190.921, 575.078 291.156, 554.819 310.013, 506.457 310.764, 422.417 "
+fill = "none" stroke = "black"/>
+<polygon points = "462.976, 554.630 425.294, 570.424 417.605, 762.639 472.515, 762.654 521.072, 576.152 "
+fill = "none" stroke = "black"/>
+<polygon points = "873.444, 530.972 843.118, 665.244 999.000, 658.333 999.000, 475.704 "
+fill = "none" stroke = "black"/>
+<polygon points = "316.762, 890.591 229.818, 857.573 165.709, 999.000 240.304, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "791.706, 297.622 713.115, 429.817 800.850, 522.674 873.444, 530.972 999.000, 475.704 999.000, 288.715 "
+fill = "none" stroke = "black"/>
+<polygon points = "351.677, 411.569 310.764, 422.417 310.013, 506.457 425.294, 570.424 462.976, 554.630 458.905, 507.216 "
+fill = "none" stroke = "black"/>
+<polygon points = "721.501, 238.794 542.758, 242.545 509.599, 298.630 502.926, 328.901 520.524, 352.358 670.855, 443.761 713.115, 429.817 791.706, 297.622 "
+fill = "none" stroke = "black"/>
+<polygon points = "843.118, 665.244 827.291, 684.474 817.274, 723.862 999.000, 872.347 999.000, 658.333 "
+fill = "none" stroke = "black"/>
+<polygon points = "698.255, 686.031 716.822, 623.048 617.879, 565.405 614.231, 679.324 "
+fill = "none" stroke = "black"/>
+<polygon points = "298.730, 128.233 180.134, 250.348 244.351, 312.321 335.877, 210.588 337.562, 135.783 "
+fill = "none" stroke = "black"/>
+<polygon points = "458.905, 507.216 462.976, 554.630 521.072, 576.152 560.702, 550.718 520.890, 478.598 "
+fill = "none" stroke = "black"/>
+<polygon points = "335.877, 210.588 244.351, 312.321 265.249, 390.550 310.764, 422.417 351.677, 411.569 502.926, 328.901 509.599, 298.630 "
+fill = "none" stroke = "black"/>
+<polygon points = "380.226, 100.550 337.562, 135.783 335.877, 210.588 509.599, 298.630 542.758, 242.545 529.191, 180.253 "
+fill = "none" stroke = "black"/>
+<polygon points = "351.677, 411.569 458.905, 507.216 520.890, 478.598 520.524, 352.358 502.926, 328.901 "
+fill = "none" stroke = "black"/>
+<polygon points = "174.418, 740.988 179.203, 740.433 190.921, 575.078 35.415, 531.215 "
+fill = "none" stroke = "black"/>
+<polygon points = "170.101, 243.975 180.134, 250.348 298.730, 128.233 217.510, 83.588 "
+fill = "none" stroke = "black"/>
+<polygon points = "731.709, 102.850 721.501, 238.794 791.706, 297.622 999.000, 288.715 999.000, 1.000 752.698, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "536.404, 162.409 731.709, 102.850 752.698, 1.000 582.896, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "695.279, 845.667 752.168, 745.499 698.255, 686.031 614.231, 679.324 517.504, 768.114 "
+fill = "none" stroke = "black"/>
+<polygon points = "217.510, 83.588 298.730, 128.233 337.562, 135.783 380.226, 100.550 386.067, 1.000 169.114, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "174.418, 740.988 35.415, 531.215 1.000, 505.143 1.000, 861.420 "
+fill = "none" stroke = "black"/>
+<polygon points = "315.754, 718.254 214.086, 743.542 229.818, 857.573 316.762, 890.591 340.683, 873.414 403.896, 785.119 412.109, 763.877 "
+fill = "none" stroke = "black"/>
+<polygon points = "229.818, 857.573 214.086, 743.542 179.203, 740.433 174.418, 740.988 1.000, 861.420 1.000, 999.000 165.709, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "716.822, 623.048 749.003, 601.189 755.406, 578.381 635.031, 527.065 613.809, 553.697 617.879, 565.405 "
+fill = "none" stroke = "black"/>
+<polygon points = "340.683, 873.414 316.762, 890.591 240.304, 999.000 381.653, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 214.467 170.101, 243.975 217.510, 83.588 169.114, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "179.203, 740.433 214.086, 743.542 315.754, 718.254 291.156, 554.819 190.921, 575.078 "
+fill = "none" stroke = "black"/>
+<polygon points = "536.404, 162.409 529.191, 180.253 542.758, 242.545 721.501, 238.794 731.709, 102.850 "
+fill = "none" stroke = "black"/>
+<polygon points = "244.351, 312.321 180.134, 250.348 170.101, 243.975 1.000, 214.467 1.000, 489.126 265.249, 390.550 "
+fill = "none" stroke = "black"/>
+<polygon points = "380.226, 100.550 529.191, 180.253 536.404, 162.409 582.896, 1.000 386.067, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "827.291, 684.474 749.003, 601.189 716.822, 623.048 698.255, 686.031 752.168, 745.499 817.274, 723.862 "
+fill = "none" stroke = "black"/>
+<polygon points = "310.013, 506.457 291.156, 554.819 315.754, 718.254 412.109, 763.877 417.605, 762.639 425.294, 570.424 "
+fill = "none" stroke = "black"/>
+<polygon points = "695.279, 845.667 517.504, 768.114 495.971, 770.591 546.202, 999.000 750.477, 999.000 "
+fill = "none" stroke = "black"/>
+<circle cx="570.013" cy="474.918" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="460.872" cy="924.389" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="386.413" cy="934.573" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="806.331" cy="818.445" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="717.604" cy="538.389" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="561.477" cy="627.083" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="802.176" cy="607.379" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="191.176" cy="521.494" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="460.960" cy="600.913" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="904.954" cy="630.593" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="253.274" cy="888.739" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="821.257" cy="440.454" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="428.562" cy="523.617" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="652.109" cy="339.894" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="907.778" cy="694.287" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="670.219" cy="630.566" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="267.829" cy="190.571" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="491.600" cy="518.204" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="362.949" cy="276.148" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="404.757" cy="193.656" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="471.746" cy="475.203" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="163.138" cy="620.896" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="237.322" cy="160.943" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="808.898" cy="152.781" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="641.068" cy="118.196" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="661.775" cy="736.346" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="293.437" cy="58.859" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="68.220" cy="683.792" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="268.049" cy="849.833" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="190.919" cy="860.474" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="700.377" cy="578.800" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="339.816" cy="949.775" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="158.826" cy="137.740" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="211.965" cy="624.356" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="647.929" cy="140.694" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="123.513" cy="340.112" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="471.295" cy="69.295" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="751.896" cy="654.643" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="387.308" cy="597.966" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="592.357" cy="895.473" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame0"
+	attributeName = "display"
+	values = "inline;none;none;none;none;none;none;none;none;none;none;none;none;none;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "530.672, 354.590 528.306, 498.590 593.303, 584.556 606.852, 586.248 652.657, 538.619 682.729, 456.768 "
+fill = "none" stroke = "black"/>
+<polygon points = "535.112, 830.184 526.532, 819.994 478.382, 805.583 431.665, 808.771 439.109, 999.000 551.346, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "431.665, 808.771 406.762, 803.757 338.466, 904.993 374.963, 999.000 439.109, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "824.060, 789.957 766.467, 809.029 715.096, 897.156 742.908, 999.000 999.000, 999.000 999.000, 916.291 "
+fill = "none" stroke = "black"/>
+<polygon points = "742.046, 435.780 682.729, 456.768 652.657, 538.619 769.805, 594.232 831.134, 535.390 "
+fill = "none" stroke = "black"/>
+<polygon points = "619.133, 734.523 615.743, 603.445 606.852, 586.248 593.303, 584.556 520.713, 619.612 478.382, 805.583 526.532, 819.994 "
+fill = "none" stroke = "black"/>
+<polygon points = "758.212, 646.390 851.424, 706.973 852.467, 706.228 895.863, 544.374 831.134, 535.390 769.805, 594.232 "
+fill = "none" stroke = "black"/>
+<polygon points = "252.401, 413.895 1.000, 519.654 1.000, 541.473 189.540, 602.818 282.272, 579.844 292.637, 560.692 296.206, 449.643 "
+fill = "none" stroke = "black"/>
+<polygon points = "451.626, 592.031 420.302, 607.071 395.272, 793.538 406.762, 803.757 431.665, 808.771 478.382, 805.583 520.713, 619.612 "
+fill = "none" stroke = "black"/>
+<polygon points = "895.863, 544.374 852.467, 706.228 999.000, 708.999 999.000, 509.600 "
+fill = "none" stroke = "black"/>
+<polygon points = "297.671, 929.406 210.947, 883.406 162.636, 999.000 263.093, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "803.203, 313.037 742.046, 435.780 831.134, 535.390 895.863, 544.374 999.000, 509.600 999.000, 307.894 "
+fill = "none" stroke = "black"/>
+<polygon points = "361.147, 437.067 296.206, 449.643 292.637, 560.692 420.302, 607.071 451.626, 592.031 453.582, 530.601 "
+fill = "none" stroke = "black"/>
+<polygon points = "758.011, 269.964 560.380, 268.722 522.608, 341.789 530.672, 354.590 682.729, 456.768 742.046, 435.780 803.203, 313.037 "
+fill = "none" stroke = "black"/>
+<polygon points = "852.467, 706.228 851.424, 706.973 824.060, 789.957 999.000, 916.291 999.000, 708.999 "
+fill = "none" stroke = "black"/>
+<polygon points = "704.058, 737.035 733.273, 659.909 615.743, 603.445 619.133, 734.523 "
+fill = "none" stroke = "black"/>
+<polygon points = "286.172, 168.484 173.480, 291.841 241.027, 365.990 344.468, 239.382 340.708, 180.743 "
+fill = "none" stroke = "black"/>
+<polygon points = "453.582, 530.601 451.626, 592.031 520.713, 619.612 593.303, 584.556 528.306, 498.590 "
+fill = "none" stroke = "black"/>
+<polygon points = "498.818, 346.178 344.468, 239.382 241.027, 365.990 252.401, 413.895 296.206, 449.643 361.147, 437.067 "
+fill = "none" stroke = "black"/>
+<polygon points = "390.085, 132.842 340.708, 180.743 344.468, 239.382 498.818, 346.178 522.608, 341.789 560.380, 268.722 551.228, 218.435 "
+fill = "none" stroke = "black"/>
+<polygon points = "498.818, 346.178 361.147, 437.067 453.582, 530.601 528.306, 498.590 530.672, 354.590 522.608, 341.789 "
+fill = "none" stroke = "black"/>
+<polygon points = "158.112, 743.000 189.540, 602.818 1.000, 541.473 1.000, 582.283 "
+fill = "none" stroke = "black"/>
+<polygon points = "147.087, 276.162 173.480, 291.841 286.172, 168.484 201.301, 103.188 "
+fill = "none" stroke = "black"/>
+<polygon points = "756.542, 141.546 758.011, 269.964 803.203, 313.037 999.000, 307.894 999.000, 1.000 786.904, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "563.642, 187.561 756.542, 141.546 786.904, 1.000 600.451, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "715.096, 897.156 766.467, 809.029 704.058, 737.035 619.133, 734.523 526.532, 819.994 535.112, 830.184 "
+fill = "none" stroke = "black"/>
+<polygon points = "201.301, 103.188 286.172, 168.484 340.708, 180.743 390.085, 132.842 398.007, 1.000 154.906, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "175.218, 781.513 158.112, 743.000 1.000, 582.283 1.000, 876.412 "
+fill = "none" stroke = "black"/>
+<polygon points = "302.252, 750.360 179.730, 782.461 210.947, 883.406 297.671, 929.406 338.466, 904.993 406.762, 803.757 395.272, 793.538 "
+fill = "none" stroke = "black"/>
+<polygon points = "210.947, 883.406 179.730, 782.461 175.218, 781.513 1.000, 876.412 1.000, 999.000 162.636, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "733.273, 659.909 758.212, 646.390 769.805, 594.232 652.657, 538.619 606.852, 586.248 615.743, 603.445 "
+fill = "none" stroke = "black"/>
+<polygon points = "338.466, 904.993 297.671, 929.406 263.093, 999.000 374.963, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 260.630 147.087, 276.162 201.301, 103.188 154.906, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "158.112, 743.000 175.218, 781.513 179.730, 782.461 302.252, 750.360 282.272, 579.844 189.540, 602.818 "
+fill = "none" stroke = "black"/>
+<polygon points = "563.642, 187.561 551.228, 218.435 560.380, 268.722 758.011, 269.964 756.542, 141.546 "
+fill = "none" stroke = "black"/>
+<polygon points = "241.027, 365.990 173.480, 291.841 147.087, 276.162 1.000, 260.630 1.000, 519.654 252.401, 413.895 "
+fill = "none" stroke = "black"/>
+<polygon points = "390.085, 132.842 551.228, 218.435 563.642, 187.561 600.451, 1.000 398.007, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "851.424, 706.973 758.212, 646.390 733.273, 659.909 704.058, 737.035 766.467, 809.029 824.060, 789.957 "
+fill = "none" stroke = "black"/>
+<polygon points = "292.637, 560.692 282.272, 579.844 302.252, 750.360 395.272, 793.538 420.302, 607.071 "
+fill = "none" stroke = "black"/>
+<polygon points = "715.096, 897.156 535.112, 830.184 551.346, 999.000 742.908, 999.000 "
+fill = "none" stroke = "black"/>
+<circle cx="586.019" cy="485.307" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="478.554" cy="957.229" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="396.520" cy="960.439" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="825.304" cy="886.649" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="737.960" cy="541.130" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="561.837" cy="678.965" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="821.545" cy="628.247" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="180.159" cy="540.255" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="457.952" cy="655.319" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="918.253" cy="654.176" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="231.935" cy="934.857" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="847.197" cy="443.431" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="406.196" cy="547.519" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="672.612" cy="356.443" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="916.238" cy="760.729" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="673.481" cy="676.078" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="264.204" cy="238.120" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="499.797" cy="550.499" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="361.708" cy="317.783" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="423.914" cy="227.879" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="471.059" cy="483.418" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="145.141" cy="647.882" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="218.801" cy="196.642" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="840.291" cy="180.512" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="664.176" cy="142.466" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="669.932" cy="796.079" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="296.118" cy="96.145" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="63.313" cy="727.875" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="265.315" cy="871.925" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="159.589" cy="904.621" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="708.528" cy="603.127" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="333.033" cy="985.087" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="133.591" cy="169.935" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="210.451" cy="662.524" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="673.706" cy="182.418" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="111.556" cy="377.177" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="487.770" cy="107.660" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="767.347" cy="711.633" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="371.261" cy="643.682" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="614.844" cy="944.123" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame1"
+	attributeName = "display"
+	values = "none;inline;none;none;none;none;none;none;none;none;none;none;none;none;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "570.784, 369.038 545.633, 387.199 540.960, 532.022 620.624, 607.002 684.344, 558.324 704.443, 478.836 "
+fill = "none" stroke = "black"/>
+<polygon points = "574.838, 897.480 568.371, 884.608 487.212, 865.662 449.173, 874.981 463.539, 999.000 585.644, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "449.173, 874.981 417.046, 870.040 357.106, 999.000 463.539, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "835.471, 899.016 788.356, 915.372 758.847, 969.488 755.373, 999.000 999.000, 999.000 999.000, 998.077 "
+fill = "none" stroke = "black"/>
+<polygon points = "792.398, 441.958 704.443, 478.836 684.344, 558.324 792.204, 616.167 883.098, 554.841 "
+fill = "none" stroke = "black"/>
+<polygon points = "628.881, 827.969 608.036, 666.672 519.441, 692.360 487.212, 865.662 568.371, 884.608 "
+fill = "none" stroke = "black"/>
+<polygon points = "778.784, 716.816 868.717, 752.678 940.417, 565.452 883.098, 554.841 792.204, 616.167 "
+fill = "none" stroke = "black"/>
+<polygon points = "241.511, 457.400 224.040, 450.667 4.460, 573.478 185.561, 649.669 262.032, 627.448 272.865, 491.436 "
+fill = "none" stroke = "black"/>
+<polygon points = "433.503, 655.126 416.992, 663.752 372.124, 841.445 417.046, 870.040 449.173, 874.981 487.212, 865.662 519.441, 692.360 "
+fill = "none" stroke = "black"/>
+<polygon points = "940.417, 565.452 868.717, 752.678 892.004, 782.006 999.000, 788.148 999.000, 554.288 "
+fill = "none" stroke = "black"/>
+<polygon points = "259.527, 973.921 153.446, 881.690 149.616, 999.000 265.749, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "827.339, 336.668 792.398, 441.958 883.098, 554.841 940.417, 565.452 999.000, 554.288 999.000, 337.865 "
+fill = "none" stroke = "black"/>
+<polygon points = "372.761, 487.363 272.865, 491.436 262.032, 627.448 272.968, 639.606 416.992, 663.752 433.503, 655.126 444.686, 570.128 "
+fill = "none" stroke = "black"/>
+<polygon points = "820.348, 328.307 593.687, 309.937 570.784, 369.038 704.443, 478.836 792.398, 441.958 827.339, 336.668 "
+fill = "none" stroke = "black"/>
+<polygon points = "892.004, 782.006 835.471, 899.016 999.000, 998.077 999.000, 788.148 "
+fill = "none" stroke = "black"/>
+<polygon points = "715.575, 824.891 765.375, 722.746 610.405, 664.039 608.036, 666.672 628.881, 827.969 "
+fill = "none" stroke = "black"/>
+<polygon points = "269.386, 238.743 161.469, 361.077 224.040, 450.667 241.511, 457.400 355.913, 286.569 351.644, 261.629 "
+fill = "none" stroke = "black"/>
+<polygon points = "444.686, 570.128 433.503, 655.126 519.441, 692.360 608.036, 666.672 610.405, 664.039 620.624, 607.002 540.960, 532.022 "
+fill = "none" stroke = "black"/>
+<polygon points = "464.685, 392.141 355.913, 286.569 241.511, 457.400 272.865, 491.436 372.761, 487.363 "
+fill = "none" stroke = "black"/>
+<polygon points = "409.102, 190.555 351.644, 261.629 355.913, 286.569 464.685, 392.141 545.633, 387.199 570.784, 369.038 593.687, 309.937 590.483, 284.556 "
+fill = "none" stroke = "black"/>
+<polygon points = "464.685, 392.141 372.761, 487.363 444.686, 570.128 540.960, 532.022 545.633, 387.199 "
+fill = "none" stroke = "black"/>
+<polygon points = "136.200, 772.500 185.561, 649.669 4.460, 573.478 1.000, 573.790 1.000, 706.697 "
+fill = "none" stroke = "black"/>
+<polygon points = "108.373, 332.436 161.469, 361.077 269.386, 238.743 177.964, 129.234 "
+fill = "none" stroke = "black"/>
+<polygon points = "801.375, 202.480 820.348, 328.307 827.339, 336.668 999.000, 337.865 999.000, 1.000 848.346, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "608.465, 239.041 801.375, 202.480 848.346, 1.000 619.733, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "758.847, 969.488 788.356, 915.372 715.575, 824.891 628.881, 827.969 568.371, 884.608 574.838, 897.480 "
+fill = "none" stroke = "black"/>
+<polygon points = "177.964, 129.234 269.386, 238.743 351.644, 261.629 409.102, 190.555 420.193, 1.000 140.174, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "150.376, 875.152 169.131, 837.907 136.200, 772.500 1.000, 706.697 1.000, 915.640 "
+fill = "none" stroke = "black"/>
+<polygon points = "360.642, 840.269 282.177, 805.279 169.131, 837.907 150.376, 875.152 153.446, 881.690 259.527, 973.921 "
+fill = "none" stroke = "black"/>
+<polygon points = "153.446, 881.690 150.376, 875.152 1.000, 915.640 1.000, 999.000 149.616, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "610.405, 664.039 765.375, 722.746 778.784, 716.816 792.204, 616.167 684.344, 558.324 620.624, 607.002 "
+fill = "none" stroke = "black"/>
+<polygon points = "417.046, 870.040 372.124, 841.445 360.642, 840.269 259.527, 973.921 265.749, 999.000 357.106, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 332.694 108.373, 332.436 177.964, 129.234 140.174, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "282.177, 805.279 272.968, 639.606 262.032, 627.448 185.561, 649.669 136.200, 772.500 169.131, 837.907 "
+fill = "none" stroke = "black"/>
+<polygon points = "608.465, 239.041 590.483, 284.556 593.687, 309.937 820.348, 328.307 801.375, 202.480 "
+fill = "none" stroke = "black"/>
+<polygon points = "161.469, 361.077 108.373, 332.436 1.000, 332.694 1.000, 573.790 4.460, 573.478 224.040, 450.667 "
+fill = "none" stroke = "black"/>
+<polygon points = "409.102, 190.555 590.483, 284.556 608.465, 239.041 619.733, 1.000 420.193, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "892.004, 782.006 868.717, 752.678 778.784, 716.816 765.375, 722.746 715.575, 824.891 788.356, 915.372 835.471, 899.016 "
+fill = "none" stroke = "black"/>
+<polygon points = "282.177, 805.279 360.642, 840.269 372.124, 841.445 416.992, 663.752 272.968, 639.606 "
+fill = "none" stroke = "black"/>
+<polygon points = "758.847, 969.488 574.838, 897.480 585.644, 999.000 755.373, 999.000 "
+fill = "none" stroke = "black"/>
+<circle cx="612.719" cy="501.128" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="510.926" cy="985.853" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="414.401" cy="997.034" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="858.743" cy="994.293" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="774.548" cy="542.047" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="561.690" cy="768.393" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="854.325" cy="660.287" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="163.794" cy="569.992" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="452.682" cy="748.121" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="941.140" cy="693.534" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="195.247" cy="985.300" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="893.982" cy="446.082" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="368.126" cy="586.266" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="708.502" cy="384.529" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="930.693" cy="875.519" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="678.719" cy="753.269" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="259.454" cy="321.772" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="514.466" cy="605.519" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="360.090" cy="389.167" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="458.590" cy="287.681" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="471.343" cy="496.567" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="113.380" cy="689.822" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="188.244" cy="258.955" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="895.501" cy="228.194" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="705.580" cy="183.917" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="683.891" cy="898.946" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="303.764" cy="162.514" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="57.054" cy="805.551" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="261.861" cy="908.683" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="104.976" cy="982.353" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="720.693" cy="642.468" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="321.672" cy="953.933" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="90.318" cy="225.417" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="209.885" cy="728.604" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="719.016" cy="254.807" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="90.833" cy="439.540" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="516.991" cy="174.991" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="794.700" cy="809.814" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="345.527" cy="721.064" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="655.921" cy="970.420" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame2"
+	attributeName = "display"
+	values = "none;none;inline;none;none;none;none;none;none;none;none;none;none;none;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "623.620, 391.087 560.290, 447.928 554.891, 571.011 635.934, 629.763 723.785, 583.116 733.346, 508.576 "
+fill = "none" stroke = "black"/>
+<polygon points = "630.922, 945.302 625.927, 920.017 498.588, 900.881 483.755, 918.555 502.928, 999.000 618.216, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "483.755, 918.555 390.678, 909.871 344.815, 999.000 502.928, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "879.700, 798.530 823.202, 800.497 882.878, 967.058 999.000, 901.173 999.000, 850.241 "
+fill = "none" stroke = "black"/>
+<polygon points = "848.428, 443.010 733.346, 508.576 723.785, 583.116 814.072, 637.107 943.053, 576.977 "
+fill = "none" stroke = "black"/>
+<polygon points = "632.955, 894.812 599.940, 764.640 517.399, 776.606 498.588, 900.881 625.927, 920.017 "
+fill = "none" stroke = "black"/>
+<polygon points = "943.053, 576.977 814.072, 637.107 806.256, 793.510 808.441, 796.540 823.202, 800.497 879.700, 798.530 999.000, 604.952 999.000, 590.475 "
+fill = "none" stroke = "black"/>
+<polygon points = "173.000, 495.752 31.404, 622.451 174.531, 703.189 222.852, 688.467 246.577, 538.840 "
+fill = "none" stroke = "black"/>
+<polygon points = "419.366, 731.672 371.193, 860.764 390.678, 909.871 483.755, 918.555 498.588, 900.881 517.399, 776.606 "
+fill = "none" stroke = "black"/>
+<polygon points = "879.700, 798.530 999.000, 850.241 999.000, 604.952 "
+fill = "none" stroke = "black"/>
+<polygon points = "218.575, 880.324 124.968, 840.994 97.736, 936.810 95.030, 999.000 191.512, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "882.253, 361.170 853.548, 408.560 848.428, 443.010 943.053, 576.977 999.000, 590.475 999.000, 368.274 "
+fill = "none" stroke = "black"/>
+<polygon points = "391.053, 561.831 262.109, 533.599 246.577, 538.840 222.852, 688.467 267.015, 717.250 412.826, 721.505 433.642, 616.087 "
+fill = "none" stroke = "black"/>
+<polygon points = "644.600, 342.901 631.150, 359.318 623.620, 391.087 733.346, 508.576 848.428, 443.010 853.548, 408.560 "
+fill = "none" stroke = "black"/>
+<polygon points = "882.878, 967.058 866.104, 999.000 999.000, 999.000 999.000, 901.173 "
+fill = "none" stroke = "black"/>
+<polygon points = "772.559, 858.437 808.441, 796.540 806.256, 793.510 626.643, 740.767 599.940, 764.640 632.955, 894.812 "
+fill = "none" stroke = "black"/>
+<polygon points = "251.581, 321.151 145.557, 437.965 173.000, 495.752 246.577, 538.840 262.109, 533.599 348.876, 354.950 "
+fill = "none" stroke = "black"/>
+<polygon points = "433.642, 616.087 412.826, 721.505 419.366, 731.672 517.399, 776.606 599.940, 764.640 626.643, 740.767 635.934, 629.763 554.891, 571.011 "
+fill = "none" stroke = "black"/>
+<polygon points = "436.304, 426.220 375.863, 349.966 348.876, 354.950 262.109, 533.599 391.053, 561.831 "
+fill = "none" stroke = "black"/>
+<polygon points = "431.497, 261.337 375.863, 349.966 436.304, 426.220 560.290, 447.928 623.620, 391.087 631.150, 359.318 "
+fill = "none" stroke = "black"/>
+<polygon points = "436.304, 426.220 391.053, 561.831 433.642, 616.087 554.891, 571.011 560.290, 447.928 "
+fill = "none" stroke = "black"/>
+<polygon points = "112.825, 820.940 174.531, 703.189 31.404, 622.451 1.000, 623.476 1.000, 807.437 "
+fill = "none" stroke = "black"/>
+<polygon points = "63.290, 398.433 145.557, 437.965 251.581, 321.151 156.049, 143.816 "
+fill = "none" stroke = "black"/>
+<polygon points = "854.388, 271.067 882.253, 361.170 999.000, 368.274 999.000, 1.000 920.922, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "659.234, 304.805 854.388, 271.067 920.922, 1.000 625.463, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "764.232, 949.268 630.922, 945.302 618.216, 999.000 785.830, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "156.049, 143.816 251.581, 321.151 348.876, 354.950 375.863, 349.966 431.497, 261.337 445.073, 1.000 131.861, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "97.736, 936.810 124.968, 840.994 112.825, 820.940 1.000, 807.437 1.000, 885.696 "
+fill = "none" stroke = "black"/>
+<polygon points = "245.661, 871.821 218.575, 880.324 191.512, 999.000 330.490, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "97.736, 936.810 1.000, 885.696 1.000, 999.000 95.030, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "626.643, 740.767 806.256, 793.510 814.072, 637.107 723.785, 583.116 635.934, 629.763 "
+fill = "none" stroke = "black"/>
+<polygon points = "390.678, 909.871 371.193, 860.764 260.167, 857.422 245.661, 871.821 330.490, 999.000 344.815, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 405.771 63.290, 398.433 156.049, 143.816 131.861, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "112.825, 820.940 124.968, 840.994 218.575, 880.324 245.661, 871.821 260.167, 857.422 267.015, 717.250 222.852, 688.467 174.531, 703.189 "
+fill = "none" stroke = "black"/>
+<polygon points = "659.234, 304.805 644.600, 342.901 853.548, 408.560 882.253, 361.170 854.388, 271.067 "
+fill = "none" stroke = "black"/>
+<polygon points = "145.557, 437.965 63.290, 398.433 1.000, 405.771 1.000, 623.476 31.404, 622.451 173.000, 495.752 "
+fill = "none" stroke = "black"/>
+<polygon points = "431.497, 261.337 631.150, 359.318 644.600, 342.901 659.234, 304.805 625.463, 1.000 445.073, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "882.878, 967.058 823.202, 800.497 808.441, 796.540 772.559, 858.437 764.232, 949.268 785.830, 999.000 866.104, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "260.167, 857.422 371.193, 860.764 419.366, 731.672 412.826, 721.505 267.015, 717.250 "
+fill = "none" stroke = "black"/>
+<polygon points = "764.232, 949.268 772.559, 858.437 632.955, 894.812 625.927, 920.017 630.922, 945.302 "
+fill = "none" stroke = "black"/>
+<circle cx="642.145" cy="518.263" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="550.908" cy="944.697" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="435.613" cy="972.176" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="898.145" cy="900.996" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="819.150" cy="540.966" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="561.475" cy="874.378" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="890.974" cy="695.029" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="146.852" cy="601.129" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="446.362" cy="856.953" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="967.090" cy="741.939" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="156.516" cy="926.979" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="950.536" cy="448.164" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="322.142" cy="628.923" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="749.234" cy="418.249" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="947.418" cy="987.839" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="686.056" cy="842.780" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="252.112" cy="421.391" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="531.895" cy="670.343" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="356.482" cy="472.082" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="499.178" cy="358.977" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="472.592" cy="510.825" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="72.866" cy="732.287" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="151.759" cy="330.307" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="960.581" cy="283.097" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="754.759" cy="232.390" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="702.723" cy="980.621" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="314.143" cy="242.829" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="52.912" cy="897.533" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="254.272" cy="949.272" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="40.031" cy="921.912" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="731.779" cy="687.073" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="313.860" cy="909.526" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="39.374" cy="289.364" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="208.462" cy="803.345" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="773.526" cy="340.947" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="65.375" cy="510.073" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="550.139" cy="255.136" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="829.132" cy="925.723" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="316.897" cy="808.642" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="704.695" cy="914.315" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame3"
+	attributeName = "display"
+	values = "none;none;none;inline;none;none;none;none;none;none;none;none;none;none;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "651.736, 417.711 570.991, 514.331 565.962, 607.141 639.614, 651.253 762.220, 606.379 763.687, 547.440 666.797, 411.278 "
+fill = "none" stroke = "black"/>
+<polygon points = "635.566, 843.184 627.671, 816.645 494.461, 845.421 506.676, 903.984 507.940, 907.792 648.057, 998.529 "
+fill = "none" stroke = "black"/>
+<polygon points = "507.940, 907.792 506.676, 903.984 416.345, 999.000 507.144, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "849.584, 846.082 874.898, 860.673 978.808, 832.327 949.517, 759.523 831.359, 788.053 "
+fill = "none" stroke = "black"/>
+<polygon points = "907.415, 459.810 834.201, 482.141 763.687, 547.440 762.220, 606.379 827.254, 649.868 996.854, 596.041 "
+fill = "none" stroke = "black"/>
+<polygon points = "648.057, 998.529 507.940, 907.792 507.144, 999.000 648.247, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "996.854, 596.041 827.254, 649.868 829.720, 786.128 831.359, 788.053 949.517, 759.523 999.000, 708.814 999.000, 596.637 "
+fill = "none" stroke = "black"/>
+<polygon points = "134.251, 515.398 47.586, 667.610 159.157, 749.608 177.734, 744.144 219.422, 599.151 "
+fill = "none" stroke = "black"/>
+<polygon points = "506.676, 903.984 494.461, 845.421 438.742, 819.384 350.147, 953.611 344.067, 965.375 347.540, 999.000 416.345, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "949.517, 759.523 978.808, 832.327 999.000, 838.938 999.000, 708.814 "
+fill = "none" stroke = "black"/>
+<polygon points = "178.823, 942.450 140.544, 780.541 87.062, 818.567 58.989, 914.455 151.494, 980.883 "
+fill = "none" stroke = "black"/>
+<polygon points = "917.522, 398.876 907.415, 459.810 996.854, 596.041 999.000, 596.637 999.000, 388.541 "
+fill = "none" stroke = "black"/>
+<polygon points = "262.429, 774.085 399.186, 753.434 419.042, 671.189 281.136, 584.991 219.422, 599.151 177.734, 744.144 "
+fill = "none" stroke = "black"/>
+<polygon points = "754.955, 359.473 701.076, 354.229 666.797, 411.278 763.687, 547.440 834.201, 482.141 "
+fill = "none" stroke = "black"/>
+<polygon points = "978.808, 832.327 874.898, 860.673 974.903, 999.000 999.000, 999.000 999.000, 838.938 "
+fill = "none" stroke = "black"/>
+<polygon points = "773.265, 961.240 635.566, 843.184 648.057, 998.529 648.247, 999.000 767.524, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "236.857, 395.897 130.810, 503.128 134.251, 515.398 219.422, 599.151 281.136, 584.991 326.804, 434.027 "
+fill = "none" stroke = "black"/>
+<polygon points = "437.290, 651.820 419.042, 671.189 399.186, 753.434 438.742, 819.384 494.461, 845.421 627.671, 816.645 643.831, 799.034 639.614, 651.253 565.962, 607.141 "
+fill = "none" stroke = "black"/>
+<polygon points = "391.554, 426.617 326.804, 434.027 281.136, 584.991 419.042, 671.189 437.290, 651.820 "
+fill = "none" stroke = "black"/>
+<polygon points = "452.123, 329.711 410.306, 412.919 570.991, 514.331 651.736, 417.711 "
+fill = "none" stroke = "black"/>
+<polygon points = "410.306, 412.919 391.554, 426.617 437.290, 651.820 565.962, 607.141 570.991, 514.331 "
+fill = "none" stroke = "black"/>
+<polygon points = "87.062, 818.567 140.544, 780.541 159.157, 749.608 47.586, 667.610 1.000, 665.630 1.000, 808.245 "
+fill = "none" stroke = "black"/>
+<polygon points = "26.432, 457.627 130.810, 503.128 236.857, 395.897 150.897, 150.245 "
+fill = "none" stroke = "black"/>
+<polygon points = "880.325, 335.097 917.522, 398.876 999.000, 388.541 999.000, 1.000 980.609, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "701.076, 354.229 754.955, 359.473 880.325, 335.097 980.609, 1.000 616.552, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "782.267, 938.543 679.052, 802.483 643.831, 799.034 627.671, 816.645 635.566, 843.184 773.265, 961.240 "
+fill = "none" stroke = "black"/>
+<polygon points = "150.897, 150.245 236.857, 395.897 326.804, 434.027 391.554, 426.617 410.306, 412.919 452.123, 329.711 464.950, 1.000 138.276, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "151.494, 980.883 58.989, 914.455 1.000, 930.255 1.000, 999.000 151.705, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "344.067, 965.375 242.330, 918.127 178.823, 942.450 151.494, 980.883 151.705, 999.000 347.540, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "58.989, 914.455 87.062, 818.567 1.000, 808.245 1.000, 930.255 "
+fill = "none" stroke = "black"/>
+<polygon points = "643.831, 799.034 679.052, 802.483 829.720, 786.128 827.254, 649.868 762.220, 606.379 639.614, 651.253 "
+fill = "none" stroke = "black"/>
+<polygon points = "260.448, 815.542 350.147, 953.611 438.742, 819.384 399.186, 753.434 262.429, 774.085 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 461.458 26.432, 457.627 150.897, 150.245 138.276, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "242.330, 918.127 260.448, 815.542 262.429, 774.085 177.734, 744.144 159.157, 749.608 140.544, 780.541 178.823, 942.450 "
+fill = "none" stroke = "black"/>
+<polygon points = "754.955, 359.473 834.201, 482.141 907.415, 459.810 917.522, 398.876 880.325, 335.097 "
+fill = "none" stroke = "black"/>
+<polygon points = "130.810, 503.128 26.432, 457.627 1.000, 461.458 1.000, 665.630 47.586, 667.610 134.251, 515.398 "
+fill = "none" stroke = "black"/>
+<polygon points = "452.123, 329.711 651.736, 417.711 666.797, 411.278 701.076, 354.229 616.552, 1.000 464.950, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "874.898, 860.673 849.584, 846.082 782.267, 938.543 773.265, 961.240 767.524, 999.000 974.903, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "242.330, 918.127 344.067, 965.375 350.147, 953.611 260.448, 815.542 "
+fill = "none" stroke = "black"/>
+<polygon points = "849.584, 846.082 831.359, 788.053 829.720, 786.128 679.052, 802.483 782.267, 938.543 "
+fill = "none" stroke = "black"/>
+<circle cx="665.874" cy="532.311" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="589.870" cy="928.307" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="454.554" cy="973.239" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="941.106" cy="806.224" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="862.132" cy="537.196" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="560.176" cy="974.161" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="920.723" cy="721.806" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="134.550" cy="624.319" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="440.143" cy="959.538" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="987.927" cy="787.386" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="121.034" cy="888.426" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="996.426" cy="449.029" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="277.965" cy="665.554" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="781.449" cy="450.070" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="959.583" cy="873.959" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="694.275" cy="919.912" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="243.162" cy="513.868" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="547.149" cy="730.543" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="352.166" cy="546.843" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="536.447" cy="424.148" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="474.720" cy="521.953" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="32.236" cy="763.534" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="118.823" cy="390.902" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="981.407" cy="330.612" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="798.422" cy="275.686" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="720.359" cy="889.488" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="326.023" cy="318.397" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="54.152" cy="981.564" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="248.826" cy="979.297" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="20.778" cy="859.074" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="736.450" cy="725.141" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="309.320" cy="873.190" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="6.494" cy="345.418" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="206.301" cy="868.267" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="826.652" cy="420.869" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="40.431" cy="570.731" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="578.720" cy="328.259" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="860.967" cy="945.254" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="293.258" cy="883.625" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="751.708" cy="865.707" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame4"
+	attributeName = "display"
+	values = "none;none;none;none;inline;none;none;none;none;none;none;none;none;none;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "653.693, 448.597 570.612, 577.201 565.798, 634.081 622.157, 663.076 787.768, 622.002 786.369, 592.913 685.628, 432.859 "
+fill = "none" stroke = "black"/>
+<polygon points = "706.608, 882.429 638.394, 808.805 589.356, 835.783 595.911, 999.000 605.883, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "500.596, 934.539 411.162, 999.000 569.692, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "908.744, 629.843 963.974, 753.153 999.000, 751.718 999.000, 595.234 "
+fill = "none" stroke = "black"/>
+<polygon points = "916.550, 490.375 820.232, 534.774 786.369, 592.913 787.768, 622.002 822.032, 648.585 908.744, 629.843 999.000, 595.234 999.000, 526.188 "
+fill = "none" stroke = "black"/>
+<polygon points = "589.356, 835.783 473.008, 845.657 500.596, 934.539 569.692, 999.000 595.911, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "826.757, 698.786 870.112, 773.568 899.538, 784.034 963.974, 753.153 908.744, 629.843 822.032, 648.585 "
+fill = "none" stroke = "black"/>
+<polygon points = "142.843, 522.959 95.663, 530.330 59.181, 693.229 68.653, 701.770 153.065, 723.030 199.327, 637.013 "
+fill = "none" stroke = "black"/>
+<polygon points = "500.596, 934.539 473.008, 845.657 442.369, 822.723 344.734, 901.317 357.682, 999.000 411.162, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "947.402, 845.125 987.575, 999.000 999.000, 999.000 999.000, 790.309 "
+fill = "none" stroke = "black"/>
+<polygon points = "135.028, 916.668 182.759, 822.303 34.366, 827.872 15.006, 847.674 "
+fill = "none" stroke = "black"/>
+<polygon points = "868.789, 413.161 916.550, 490.375 999.000, 526.188 999.000, 381.948 "
+fill = "none" stroke = "black"/>
+<polygon points = "207.674, 800.513 346.588, 707.581 283.644, 631.359 199.327, 637.013 153.065, 723.030 205.410, 800.169 "
+fill = "none" stroke = "black"/>
+<polygon points = "840.410, 404.650 827.806, 391.222 716.659, 368.112 685.628, 432.859 786.369, 592.913 820.232, 534.774 "
+fill = "none" stroke = "black"/>
+<polygon points = "963.974, 753.153 899.538, 784.034 947.402, 845.125 999.000, 790.309 999.000, 751.718 "
+fill = "none" stroke = "black"/>
+<polygon points = "802.317, 918.335 750.789, 888.850 706.608, 882.429 605.883, 999.000 853.630, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "228.485, 446.925 142.843, 522.959 199.327, 637.013 283.644, 631.359 313.761, 488.670 "
+fill = "none" stroke = "black"/>
+<polygon points = "474.043, 662.709 427.049, 717.776 442.369, 822.723 473.008, 845.657 589.356, 835.783 638.394, 808.805 642.078, 777.852 622.157, 663.076 565.798, 634.081 "
+fill = "none" stroke = "black"/>
+<polygon points = "363.482, 485.921 313.761, 488.670 283.644, 631.359 346.588, 707.581 427.049, 717.776 474.043, 662.709 "
+fill = "none" stroke = "black"/>
+<polygon points = "464.574, 382.727 456.395, 401.828 570.612, 577.201 653.693, 448.597 "
+fill = "none" stroke = "black"/>
+<polygon points = "456.395, 401.828 363.482, 485.921 474.043, 662.709 565.798, 634.081 570.612, 577.201 "
+fill = "none" stroke = "black"/>
+<polygon points = "15.006, 847.674 34.366, 827.872 68.653, 701.770 59.181, 693.229 1.000, 687.088 1.000, 853.559 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 460.054 1.000, 489.791 95.663, 530.330 142.843, 522.959 228.485, 446.925 199.705, 317.528 "
+fill = "none" stroke = "black"/>
+<polygon points = "827.806, 391.222 840.410, 404.650 868.789, 413.161 999.000, 381.948 999.000, 113.225 "
+fill = "none" stroke = "black"/>
+<polygon points = "716.659, 368.112 827.806, 391.222 999.000, 113.225 999.000, 1.000 601.065, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "750.789, 888.850 767.602, 769.178 642.078, 777.852 638.394, 808.805 706.608, 882.429 "
+fill = "none" stroke = "black"/>
+<polygon points = "199.705, 317.528 228.485, 446.925 313.761, 488.670 363.482, 485.921 456.395, 401.828 464.574, 382.727 470.883, 1.000 191.361, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "135.028, 916.668 15.006, 847.674 1.000, 853.559 1.000, 999.000 131.176, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "315.731, 891.976 259.518, 856.414 191.125, 999.000 208.195, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "34.366, 827.872 182.759, 822.303 205.410, 800.169 153.065, 723.030 68.653, 701.770 "
+fill = "none" stroke = "black"/>
+<polygon points = "767.602, 769.178 826.757, 698.786 822.032, 648.585 787.768, 622.002 622.157, 663.076 642.078, 777.852 "
+fill = "none" stroke = "black"/>
+<polygon points = "427.049, 717.776 346.588, 707.581 207.674, 800.513 259.518, 856.414 315.731, 891.976 344.734, 901.317 442.369, 822.723 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 460.054 199.705, 317.528 191.361, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "259.518, 856.414 207.674, 800.513 205.410, 800.169 182.759, 822.303 135.028, 916.668 131.176, 999.000 191.125, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "868.789, 413.161 840.410, 404.650 820.232, 534.774 916.550, 490.375 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 489.791 1.000, 687.088 59.181, 693.229 95.663, 530.330 "
+fill = "none" stroke = "black"/>
+<polygon points = "464.574, 382.727 653.693, 448.597 685.628, 432.859 716.659, 368.112 601.065, 1.000 470.883, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "947.402, 845.125 899.538, 784.034 870.112, 773.568 802.317, 918.335 853.630, 999.000 987.575, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "344.734, 901.317 315.731, 891.976 208.195, 999.000 357.682, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "767.602, 769.178 750.789, 888.850 802.317, 918.335 870.112, 773.568 826.757, 698.786 "
+fill = "none" stroke = "black"/>
+<circle cx="674.315" cy="541.041" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="620.100" cy="898.080" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="470.860" cy="999.869" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="963.385" cy="714.272" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="892.928" cy="530.526" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="563.708" cy="900.345" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="935.356" cy="726.826" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="130.874" cy="630.106" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="429.215" cy="942.091" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="999.320" cy="822.781" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="91.862" cy="857.160" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="929.771" cy="445.705" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="242.827" cy="690.316" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="788.061" cy="469.447" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="966.568" cy="791.952" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="703.673" cy="970.293" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="235.321" cy="578.379" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="553.194" cy="776.466" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="349.256" cy="602.427" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="560.945" cy="467.801" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="474.462" cy="524.125" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="3.789" cy="771.051" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="98.765" cy="424.569" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="908.389" cy="356.507" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="822.536" cy="303.638" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="728.804" cy="797.364" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="336.500" cy="371.693" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="61.881" cy="909.315" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="244.815" cy="933.576" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="89.505" cy="794.357" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="725.296" cy="746.595" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="322.946" cy="810.077" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="65.955" cy="378.825" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="208.542" cy="916.177" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="870.677" cy="482.258" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="21.258" cy="605.557" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="592.943" cy="375.931" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="891.188" cy="851.011" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="273.793" cy="962.692" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="797.131" cy="806.964" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame5"
+	attributeName = "display"
+	values = "none;none;none;none;none;inline;none;none;none;none;none;none;none;none;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "659.403, 448.218 543.863, 625.977 543.058, 630.167 599.760, 655.810 780.957, 594.389 666.870, 444.579 "
+fill = "none" stroke = "black"/>
+<polygon points = "690.622, 820.362 637.306, 803.906 618.694, 819.887 562.956, 891.720 604.508, 999.000 675.403, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "562.956, 891.720 496.093, 867.297 376.787, 955.565 372.950, 999.000 604.508, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "916.045, 589.129 881.246, 628.742 938.009, 656.500 999.000, 667.465 999.000, 519.077 "
+fill = "none" stroke = "black"/>
+<polygon points = "892.126, 471.926 916.045, 589.129 999.000, 519.077 999.000, 419.953 "
+fill = "none" stroke = "black"/>
+<polygon points = "497.568, 646.060 464.835, 695.361 455.025, 744.538 457.286, 749.101 618.694, 819.887 637.306, 803.906 604.202, 665.768 599.760, 655.810 543.058, 630.167 "
+fill = "none" stroke = "black"/>
+<polygon points = "884.109, 757.862 941.341, 765.876 938.009, 656.500 881.246, 628.742 830.531, 636.021 "
+fill = "none" stroke = "black"/>
+<polygon points = "74.960, 528.188 70.614, 682.670 82.055, 691.772 181.135, 651.383 186.563, 646.506 177.636, 504.802 "
+fill = "none" stroke = "black"/>
+<polygon points = "321.809, 829.697 336.500, 878.461 376.787, 955.565 496.093, 867.297 457.286, 749.101 455.025, 744.538 "
+fill = "none" stroke = "black"/>
+<polygon points = "845.612, 915.739 841.339, 999.000 999.000, 999.000 999.000, 818.268 "
+fill = "none" stroke = "black"/>
+<polygon points = "141.596, 791.054 99.818, 752.358 1.000, 827.185 1.000, 874.936 "
+fill = "none" stroke = "black"/>
+<polygon points = "797.962, 409.540 833.040, 488.919 892.126, 471.926 999.000, 419.953 999.000, 320.021 "
+fill = "none" stroke = "black"/>
+<polygon points = "291.521, 684.394 280.998, 660.882 186.563, 646.506 181.135, 651.383 225.296, 800.768 263.239, 794.502 "
+fill = "none" stroke = "black"/>
+<polygon points = "724.484, 366.886 705.405, 360.460 666.870, 444.579 780.957, 594.389 783.616, 594.905 833.040, 488.919 797.962, 409.540 "
+fill = "none" stroke = "black"/>
+<polygon points = "938.009, 656.500 941.341, 765.876 999.000, 799.749 999.000, 667.465 "
+fill = "none" stroke = "black"/>
+<polygon points = "845.612, 915.739 824.340, 869.831 756.754, 810.622 690.622, 820.362 675.403, 999.000 841.339, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "230.255, 467.210 217.550, 472.871 177.636, 504.802 186.563, 646.506 280.998, 660.882 326.582, 516.965 "
+fill = "none" stroke = "black"/>
+<polygon points = "496.093, 867.297 562.956, 891.720 618.694, 819.887 457.286, 749.101 "
+fill = "none" stroke = "black"/>
+<polygon points = "338.032, 516.475 326.582, 516.965 280.998, 660.882 291.521, 684.394 464.835, 695.361 497.568, 646.060 "
+fill = "none" stroke = "black"/>
+<polygon points = "501.570, 422.391 543.863, 625.977 659.403, 448.218 "
+fill = "none" stroke = "black"/>
+<polygon points = "464.270, 384.244 338.032, 516.475 497.568, 646.060 543.058, 630.167 543.863, 625.977 501.570, 422.391 "
+fill = "none" stroke = "black"/>
+<polygon points = "99.818, 752.358 82.055, 691.772 70.614, 682.670 1.000, 684.034 1.000, 827.185 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 326.064 1.000, 493.273 74.960, 528.188 177.636, 504.802 217.550, 472.871 "
+fill = "none" stroke = "black"/>
+<polygon points = "724.484, 366.886 797.962, 409.540 999.000, 320.021 999.000, 268.115 "
+fill = "none" stroke = "black"/>
+<polygon points = "705.405, 360.460 724.484, 366.886 999.000, 268.115 999.000, 1.000 588.169, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "763.444, 757.413 823.199, 634.088 783.616, 594.905 780.957, 594.389 599.760, 655.810 604.202, 665.768 "
+fill = "none" stroke = "black"/>
+<polygon points = "230.255, 467.210 326.582, 516.965 338.032, 516.475 464.270, 384.244 456.561, 1.000 266.959, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "151.191, 892.915 175.265, 820.651 141.596, 791.054 1.000, 874.936 1.000, 999.000 48.365, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "336.500, 878.461 321.809, 829.697 263.239, 794.502 225.296, 800.768 175.265, 820.651 151.191, 892.915 218.022, 928.351 "
+fill = "none" stroke = "black"/>
+<polygon points = "225.296, 800.768 181.135, 651.383 82.055, 691.772 99.818, 752.358 141.596, 791.054 175.265, 820.651 "
+fill = "none" stroke = "black"/>
+<polygon points = "756.754, 810.622 763.444, 757.413 604.202, 665.768 637.306, 803.906 690.622, 820.362 "
+fill = "none" stroke = "black"/>
+<polygon points = "291.521, 684.394 263.239, 794.502 321.809, 829.697 455.025, 744.538 464.835, 695.361 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 326.064 217.550, 472.871 230.255, 467.210 266.959, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "218.022, 928.351 151.191, 892.915 48.365, 999.000 278.462, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "833.040, 488.919 783.616, 594.905 823.199, 634.088 830.531, 636.021 881.246, 628.742 916.045, 589.129 892.126, 471.926 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 493.273 1.000, 684.034 70.614, 682.670 74.960, 528.188 "
+fill = "none" stroke = "black"/>
+<polygon points = "464.270, 384.244 501.570, 422.391 659.403, 448.218 666.870, 444.579 705.405, 360.460 588.169, 1.000 456.561, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "941.341, 765.876 884.109, 757.862 824.340, 869.831 845.612, 915.739 999.000, 818.268 999.000, 799.749 "
+fill = "none" stroke = "black"/>
+<polygon points = "376.787, 955.565 336.500, 878.461 218.022, 928.351 278.462, 999.000 372.950, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "823.199, 634.088 763.444, 757.413 756.754, 810.622 824.340, 869.831 884.109, 757.862 830.531, 636.021 "
+fill = "none" stroke = "black"/>
+<circle cx="663.183" cy="544.384" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="651.882" cy="886.392" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="493.642" cy="947.681" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="979.508" cy="603.376" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="912.627" cy="524.176" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="557.975" cy="777.022" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="921.560" cy="721.874" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="134.947" cy="609.285" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="418.507" cy="846.127" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="975.348" cy="905.220" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="67.293" cy="832.805" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="863.686" cy="423.536" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="218.075" cy="701.792" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="764.063" cy="467.560" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="958.407" cy="720.752" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="717.634" cy="891.994" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="233.100" cy="603.101" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="546.030" cy="804.257" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="353.428" cy="641.213" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="569.985" cy="483.807" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="463.277" cy="505.974" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="13.566" cy="761.852" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="93.910" cy="429.111" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="831.533" cy="351.330" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="816.905" cy="310.673" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="717.866" cy="705.702" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="342.717" cy="390.878" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="69.562" cy="836.609" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="250.280" cy="896.811" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="177.542" cy="713.775" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="695.835" cy="743.984" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="347.491" cy="735.034" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="131.123" cy="374.219" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="210.016" cy="972.749" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="893.739" cy="528.031" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="10.508" cy="605.784" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="585.992" cy="385.984" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="910.234" cy="802.752" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="263.125" cy="927.315" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="832.273" cy="761.137" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame6"
+	attributeName = "display"
+	values = "none;none;none;none;none;none;inline;none;none;none;none;none;none;none;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "708.097, 524.058 640.343, 466.056 551.530, 558.783 618.388, 620.339 "
+fill = "none" stroke = "black"/>
+<polygon points = "798.269, 982.409 661.010, 834.028 623.764, 839.636 596.483, 908.259 607.627, 999.000 794.664, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "596.483, 908.259 431.195, 871.557 392.247, 898.032 380.764, 933.813 364.704, 999.000 607.627, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "967.548, 305.671 941.833, 348.156 968.500, 564.409 982.218, 579.876 999.000, 583.278 999.000, 273.869 "
+fill = "none" stroke = "black"/>
+<polygon points = "825.335, 481.948 968.500, 564.409 941.833, 348.156 "
+fill = "none" stroke = "black"/>
+<polygon points = "489.641, 550.821 451.829, 573.082 466.089, 695.424 515.065, 747.154 547.650, 748.286 630.892, 666.419 618.388, 620.339 551.530, 558.783 "
+fill = "none" stroke = "black"/>
+<polygon points = "885.895, 765.500 954.513, 734.325 874.682, 645.213 829.607, 644.295 "
+fill = "none" stroke = "black"/>
+<polygon points = "195.898, 449.411 66.273, 495.594 87.629, 647.114 108.043, 658.147 170.911, 631.415 229.872, 458.606 "
+fill = "none" stroke = "black"/>
+<polygon points = "374.876, 719.593 303.928, 746.154 302.824, 749.585 392.247, 898.032 431.195, 871.557 515.065, 747.154 466.089, 695.424 "
+fill = "none" stroke = "black"/>
+<polygon points = "850.152, 888.496 798.269, 982.409 794.664, 999.000 999.000, 999.000 999.000, 874.347 "
+fill = "none" stroke = "black"/>
+<polygon points = "100.938, 911.589 54.639, 780.271 1.000, 786.577 1.000, 999.000 32.879, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "793.843, 332.942 733.315, 383.498 820.008, 484.436 825.335, 481.948 941.833, 348.156 967.548, 305.671 "
+fill = "none" stroke = "black"/>
+<polygon points = "296.168, 717.150 204.078, 640.875 170.911, 631.415 108.043, 658.147 126.562, 734.792 182.818, 802.002 302.824, 749.585 303.928, 746.154 "
+fill = "none" stroke = "black"/>
+<polygon points = "659.067, 361.323 629.936, 412.638 640.343, 466.056 708.097, 524.058 784.640, 534.460 820.008, 484.436 733.315, 383.498 "
+fill = "none" stroke = "black"/>
+<polygon points = "982.218, 579.876 874.682, 645.213 954.513, 734.325 999.000, 743.734 999.000, 583.278 "
+fill = "none" stroke = "black"/>
+<polygon points = "850.152, 888.496 831.199, 832.792 753.669, 759.066 661.010, 834.028 798.269, 982.409 "
+fill = "none" stroke = "black"/>
+<polygon points = "317.695, 493.835 241.577, 457.009 229.872, 458.606 170.911, 631.415 204.078, 640.875 344.595, 551.267 349.413, 542.709 "
+fill = "none" stroke = "black"/>
+<polygon points = "431.195, 871.557 596.483, 908.259 623.764, 839.636 547.650, 748.286 515.065, 747.154 "
+fill = "none" stroke = "black"/>
+<polygon points = "370.569, 549.961 349.413, 542.709 344.595, 551.267 296.168, 717.150 303.928, 746.154 374.876, 719.593 "
+fill = "none" stroke = "black"/>
+<polygon points = "506.014, 420.019 489.641, 550.821 551.530, 558.783 640.343, 466.056 629.936, 412.638 "
+fill = "none" stroke = "black"/>
+<polygon points = "448.980, 353.669 317.695, 493.835 349.413, 542.709 370.569, 549.961 451.829, 573.082 489.641, 550.821 506.014, 420.019 "
+fill = "none" stroke = "black"/>
+<polygon points = "54.639, 780.271 126.562, 734.792 108.043, 658.147 87.629, 647.114 1.000, 663.841 1.000, 786.577 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 122.968 1.000, 466.053 66.273, 495.594 195.898, 449.411 "
+fill = "none" stroke = "black"/>
+<polygon points = "659.067, 361.323 733.315, 383.498 793.843, 332.942 617.340, 137.025 "
+fill = "none" stroke = "black"/>
+<polygon points = "617.340, 137.025 793.843, 332.942 967.548, 305.671 999.000, 273.869 999.000, 1.000 578.207, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "747.973, 696.663 800.123, 637.284 784.640, 534.460 708.097, 524.058 618.388, 620.339 630.892, 666.419 "
+fill = "none" stroke = "black"/>
+<polygon points = "241.577, 457.009 317.695, 493.835 448.980, 353.669 421.730, 1.000 380.807, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "167.106, 850.014 181.985, 805.586 182.818, 802.002 126.562, 734.792 54.639, 780.271 100.938, 911.589 "
+fill = "none" stroke = "black"/>
+<polygon points = "380.764, 933.813 181.985, 805.586 167.106, 850.014 350.269, 999.000 364.704, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "344.595, 551.267 204.078, 640.875 296.168, 717.150 "
+fill = "none" stroke = "black"/>
+<polygon points = "753.669, 759.066 747.973, 696.663 630.892, 666.419 547.650, 748.286 623.764, 839.636 661.010, 834.028 "
+fill = "none" stroke = "black"/>
+<polygon points = "370.569, 549.961 374.876, 719.593 466.089, 695.424 451.829, 573.082 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 122.968 195.898, 449.411 229.872, 458.606 241.577, 457.009 380.807, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "167.106, 850.014 100.938, 911.589 32.879, 999.000 350.269, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "982.218, 579.876 968.500, 564.409 825.335, 481.948 820.008, 484.436 784.640, 534.460 800.123, 637.284 829.607, 644.295 874.682, 645.213 "
+fill = "none" stroke = "black"/>
+<polygon points = "87.629, 647.114 66.273, 495.594 1.000, 466.053 1.000, 663.841 "
+fill = "none" stroke = "black"/>
+<polygon points = "448.980, 353.669 506.014, 420.019 629.936, 412.638 659.067, 361.323 617.340, 137.025 578.207, 1.000 421.730, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "954.513, 734.325 885.895, 765.500 831.199, 832.792 850.152, 888.496 999.000, 874.347 999.000, 743.734 "
+fill = "none" stroke = "black"/>
+<polygon points = "380.764, 933.813 392.247, 898.032 302.824, 749.585 182.818, 802.002 181.985, 805.586 "
+fill = "none" stroke = "black"/>
+<polygon points = "800.123, 637.284 747.973, 696.663 753.669, 759.066 831.199, 832.792 885.895, 765.500 829.607, 644.295 "
+fill = "none" stroke = "black"/>
+<circle cx="633.128" cy="543.025" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="677.950" cy="911.331" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="518.180" cy="930.952" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="984.113" cy="487.386" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="934.644" cy="493.486" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="542.552" cy="641.403" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="887.119" cy="720.283" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="143.187" cy="555.722" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="407.969" cy="768.820" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="937.236" cy="967.681" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="50.455" cy="818.904" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="798.872" cy="375.264" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="206.192" cy="703.894" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="715.279" cy="447.061" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="947.939" cy="665.799" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="736.762" cy="856.928" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="239.118" cy="588.453" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="535.143" cy="854.558" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="367.504" cy="660.735" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="563.757" cy="476.582" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="436.110" cy="460.604" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="41.610" cy="743.662" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="87.841" cy="400.378" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="753.092" cy="320.455" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="785.661" cy="291.114" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="694.469" cy="600.179" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="343.115" cy="373.501" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="82.128" cy="807.738" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="260.405" cy="867.444" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="266.389" cy="631.216" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="654.434" cy="755.163" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="379.251" cy="660.437" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="204.001" cy="331.026" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="203.170" cy="937.809" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="890.164" cy="570.710" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="8.975" cy="574.639" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="556.635" cy="357.002" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="920.757" cy="794.322" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="270.674" cy="851.525" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="850.558" cy="737.263" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame7"
+	attributeName = "display"
+	values = "none;none;none;none;none;none;none;inline;none;none;none;none;none;none;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "538.585, 676.222 684.089, 669.568 613.305, 478.477 571.722, 500.937 535.157, 664.737 "
+fill = "none" stroke = "black"/>
+<polygon points = "816.368, 964.939 658.121, 889.240 627.682, 904.446 615.211, 999.000 835.591, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "627.682, 904.446 610.771, 896.825 457.432, 999.000 615.211, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "858.064, 332.374 854.461, 358.079 999.000, 419.761 999.000, 15.847 "
+fill = "none" stroke = "black"/>
+<polygon points = "854.461, 358.079 799.012, 440.832 797.039, 455.535 809.125, 505.271 913.894, 546.393 999.000, 548.790 999.000, 419.761 "
+fill = "none" stroke = "black"/>
+<polygon points = "452.497, 473.124 432.889, 492.270 434.651, 506.107 535.157, 664.737 571.722, 500.937 "
+fill = "none" stroke = "black"/>
+<polygon points = "844.470, 688.692 724.722, 661.094 706.654, 674.554 720.824, 747.895 828.303, 829.666 847.412, 822.199 "
+fill = "none" stroke = "black"/>
+<polygon points = "223.186, 379.103 201.757, 367.147 57.548, 442.681 125.540, 614.537 128.898, 615.544 130.219, 615.328 263.874, 426.919 "
+fill = "none" stroke = "black"/>
+<polygon points = "413.319, 667.254 355.768, 782.726 410.343, 866.736 410.400, 866.782 488.197, 822.515 533.527, 681.126 "
+fill = "none" stroke = "black"/>
+<polygon points = "869.477, 814.609 847.412, 822.199 828.303, 829.666 816.368, 964.939 835.591, 999.000 999.000, 999.000 999.000, 944.902 "
+fill = "none" stroke = "black"/>
+<polygon points = "107.811, 898.215 47.626, 796.613 1.000, 780.567 1.000, 999.000 85.682, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "701.620, 265.372 661.820, 343.653 799.012, 440.832 854.461, 358.079 858.064, 332.374 "
+fill = "none" stroke = "black"/>
+<polygon points = "189.632, 813.691 208.570, 813.907 279.490, 718.984 272.686, 657.996 130.219, 615.328 128.898, 615.544 135.200, 757.799 "
+fill = "none" stroke = "black"/>
+<polygon points = "661.820, 343.653 588.142, 351.941 580.045, 361.489 615.044, 475.320 797.039, 455.535 799.012, 440.832 "
+fill = "none" stroke = "black"/>
+<polygon points = "913.894, 546.393 895.010, 698.000 948.017, 737.636 999.000, 738.621 999.000, 548.790 "
+fill = "none" stroke = "black"/>
+<polygon points = "828.303, 829.666 720.824, 747.895 658.121, 889.240 816.368, 964.939 "
+fill = "none" stroke = "black"/>
+<polygon points = "303.103, 456.569 277.755, 432.457 263.874, 426.919 130.219, 615.328 272.686, 657.996 295.823, 641.009 "
+fill = "none" stroke = "black"/>
+<polygon points = "610.771, 896.825 488.197, 822.515 410.400, 866.782 382.234, 999.000 457.432, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "345.474, 635.986 295.823, 641.009 272.686, 657.996 279.490, 718.984 355.768, 782.726 413.319, 667.254 "
+fill = "none" stroke = "black"/>
+<polygon points = "486.516, 382.164 452.497, 473.124 571.722, 500.937 613.305, 478.477 615.044, 475.320 580.045, 361.489 "
+fill = "none" stroke = "black"/>
+<polygon points = "425.048, 313.298 277.755, 432.457 303.103, 456.569 432.889, 492.270 452.497, 473.124 486.516, 382.164 "
+fill = "none" stroke = "black"/>
+<polygon points = "47.626, 796.613 135.200, 757.799 128.898, 615.544 125.540, 614.537 1.000, 651.034 1.000, 780.567 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 424.890 57.548, 442.681 201.757, 367.147 56.543, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "588.142, 351.941 661.820, 343.653 701.620, 265.372 657.051, 1.000 531.566, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "701.620, 265.372 858.064, 332.374 999.000, 15.847 999.000, 1.000 657.051, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "615.044, 475.320 613.305, 478.477 684.089, 669.568 706.654, 674.554 724.722, 661.094 809.125, 505.271 797.039, 455.535 "
+fill = "none" stroke = "black"/>
+<polygon points = "402.775, 196.152 223.186, 379.103 263.874, 426.919 277.755, 432.457 425.048, 313.298 "
+fill = "none" stroke = "black"/>
+<polygon points = "189.632, 813.691 135.200, 757.799 47.626, 796.613 107.811, 898.215 "
+fill = "none" stroke = "black"/>
+<polygon points = "410.400, 866.782 410.343, 866.736 231.317, 839.553 240.583, 999.000 382.234, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "303.103, 456.569 295.823, 641.009 345.474, 635.986 434.651, 506.107 432.889, 492.270 "
+fill = "none" stroke = "black"/>
+<polygon points = "720.824, 747.895 706.654, 674.554 684.089, 669.568 538.585, 676.222 533.527, 681.126 488.197, 822.515 610.771, 896.825 627.682, 904.446 658.121, 889.240 "
+fill = "none" stroke = "black"/>
+<polygon points = "345.474, 635.986 413.319, 667.254 533.527, 681.126 538.585, 676.222 535.157, 664.737 434.651, 506.107 "
+fill = "none" stroke = "black"/>
+<polygon points = "201.757, 367.147 223.186, 379.103 402.775, 196.152 426.546, 1.000 56.543, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "231.317, 839.553 208.570, 813.907 189.632, 813.691 107.811, 898.215 85.682, 999.000 240.583, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "895.010, 698.000 913.894, 546.393 809.125, 505.271 724.722, 661.094 844.470, 688.692 "
+fill = "none" stroke = "black"/>
+<polygon points = "125.540, 614.537 57.548, 442.681 1.000, 424.890 1.000, 651.034 "
+fill = "none" stroke = "black"/>
+<polygon points = "402.775, 196.152 425.048, 313.298 486.516, 382.164 580.045, 361.489 588.142, 351.941 531.566, 1.000 426.546, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "948.017, 737.636 869.477, 814.609 999.000, 944.902 999.000, 738.621 "
+fill = "none" stroke = "black"/>
+<polygon points = "231.317, 839.553 410.343, 866.736 355.768, 782.726 279.490, 718.984 208.570, 813.907 "
+fill = "none" stroke = "black"/>
+<polygon points = "948.017, 737.636 895.010, 698.000 844.470, 688.692 847.412, 822.199 869.477, 814.609 "
+fill = "none" stroke = "black"/>
+<circle cx="597.899" cy="548.311" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="701.622" cy="982.941" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="535.920" cy="961.085" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="984.149" cy="351.882" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="939.716" cy="456.002" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="527.884" cy="532.682" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="843.032" cy="753.029" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="152.057" cy="483.394" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="403.796" cy="732.291" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="891.089" cy="876.014" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="33.970" cy="859.491" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="731.474" cy="316.469" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="192.915" cy="733.449" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="659.285" cy="418.381" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="934.587" cy="638.094" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="758.372" cy="864.305" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="247.524" cy="551.117" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="522.645" cy="941.163" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="367.123" cy="714.013" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="546.456" cy="453.072" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="394.756" cy="396.337" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="75.558" cy="738.648" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="77.897" cy="341.807" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="642.746" cy="271.356" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="759.203" cy="251.723" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="670.487" cy="521.423" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="337.514" cy="325.579" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="109.331" cy="814.850" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="277.585" cy="888.960" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="351.057" cy="555.204" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="609.325" cy="798.185" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="418.859" cy="601.758" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="274.580" cy="263.802" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="191.083" cy="893.987" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="871.337" cy="630.215" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="16.476" cy="537.035" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="510.981" cy="292.598" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="930.752" cy="836.584" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="290.166" cy="806.107" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="848.741" cy="752.904" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame8"
+	attributeName = "display"
+	values = "none;none;none;none;none;none;none;none;inline;none;none;none;none;none;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "727.458, 599.333 578.327, 495.230 571.649, 497.092 524.581, 516.487 500.031, 671.821 558.024, 730.214 648.434, 732.022 685.453, 696.574 "
+fill = "none" stroke = "black"/>
+<polygon points = "738.547, 854.183 666.911, 808.378 636.902, 920.476 662.424, 999.000 765.230, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "636.902, 920.476 548.864, 918.291 513.390, 999.000 662.424, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "861.737, 298.965 999.000, 321.755 999.000, 1.000 860.542, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "861.737, 298.965 803.905, 348.832 793.702, 365.450 809.868, 521.346 999.000, 534.068 999.000, 321.755 "
+fill = "none" stroke = "black"/>
+<polygon points = "447.478, 344.505 420.565, 386.610 499.005, 508.123 524.581, 516.487 571.649, 497.092 "
+fill = "none" stroke = "black"/>
+<polygon points = "800.627, 864.190 823.601, 803.677 813.372, 761.734 685.453, 696.574 648.434, 732.022 666.911, 808.378 738.547, 854.183 "
+fill = "none" stroke = "black"/>
+<polygon points = "189.737, 268.531 32.922, 380.724 138.973, 498.897 266.580, 412.127 240.743, 335.324 "
+fill = "none" stroke = "black"/>
+<polygon points = "331.988, 630.895 299.399, 656.935 335.395, 719.007 462.305, 838.207 558.024, 730.214 500.031, 671.821 "
+fill = "none" stroke = "black"/>
+<polygon points = "913.927, 849.009 823.601, 803.677 800.627, 864.190 857.041, 923.103 "
+fill = "none" stroke = "black"/>
+<polygon points = "102.209, 932.860 26.187, 833.580 1.000, 822.831 1.000, 999.000 123.730, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "633.017, 138.404 581.695, 294.707 706.081, 361.003 793.702, 365.450 803.905, 348.832 "
+fill = "none" stroke = "black"/>
+<polygon points = "198.194, 842.031 240.553, 842.873 263.448, 665.958 199.186, 650.468 126.191, 803.057 "
+fill = "none" stroke = "black"/>
+<polygon points = "706.081, 361.003 581.695, 294.707 534.662, 316.923 586.005, 464.841 "
+fill = "none" stroke = "black"/>
+<polygon points = "809.868, 521.346 783.156, 560.256 940.739, 733.465 999.000, 755.380 999.000, 534.068 "
+fill = "none" stroke = "black"/>
+<polygon points = "857.041, 923.103 800.627, 864.190 738.547, 854.183 765.230, 999.000 852.444, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "348.335, 560.213 321.959, 440.794 266.580, 412.127 138.973, 498.897 129.049, 608.020 199.186, 650.468 263.448, 665.958 299.399, 656.935 331.988, 630.895 "
+fill = "none" stroke = "black"/>
+<polygon points = "548.864, 918.291 460.353, 843.776 400.514, 903.823 409.673, 999.000 513.390, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "340.616, 882.613 400.514, 903.823 460.353, 843.776 462.305, 838.207 335.395, 719.007 "
+fill = "none" stroke = "black"/>
+<polygon points = "586.005, 464.841 534.662, 316.923 493.559, 316.182 454.953, 329.541 447.478, 344.505 571.649, 497.092 578.327, 495.230 "
+fill = "none" stroke = "black"/>
+<polygon points = "396.484, 272.224 240.743, 335.324 266.580, 412.127 321.959, 440.794 420.565, 386.610 447.478, 344.505 454.953, 329.541 "
+fill = "none" stroke = "black"/>
+<polygon points = "26.187, 833.580 126.191, 803.057 199.186, 650.468 129.049, 608.020 1.000, 647.102 1.000, 822.831 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 376.887 32.922, 380.724 189.737, 268.531 190.969, 221.807 126.859, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "493.559, 316.182 534.662, 316.923 581.695, 294.707 633.017, 138.404 626.438, 1.000 479.395, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "633.017, 138.404 803.905, 348.832 861.737, 298.965 860.542, 1.000 626.438, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "706.081, 361.003 586.005, 464.841 578.327, 495.230 727.458, 599.333 783.156, 560.256 809.868, 521.346 793.702, 365.450 "
+fill = "none" stroke = "black"/>
+<polygon points = "380.416, 228.881 190.969, 221.807 189.737, 268.531 240.743, 335.324 396.484, 272.224 "
+fill = "none" stroke = "black"/>
+<polygon points = "198.194, 842.031 126.191, 803.057 26.187, 833.580 102.209, 932.860 "
+fill = "none" stroke = "black"/>
+<polygon points = "400.514, 903.823 340.616, 882.613 266.543, 878.932 208.453, 999.000 409.673, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "321.959, 440.794 348.335, 560.213 499.005, 508.123 420.565, 386.610 "
+fill = "none" stroke = "black"/>
+<polygon points = "462.305, 838.207 460.353, 843.776 548.864, 918.291 636.902, 920.476 666.911, 808.378 648.434, 732.022 558.024, 730.214 "
+fill = "none" stroke = "black"/>
+<polygon points = "499.005, 508.123 348.335, 560.213 331.988, 630.895 500.031, 671.821 524.581, 516.487 "
+fill = "none" stroke = "black"/>
+<polygon points = "190.969, 221.807 380.416, 228.881 437.798, 1.000 126.859, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "266.543, 878.932 240.553, 842.873 198.194, 842.031 102.209, 932.860 123.730, 999.000 208.453, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "940.739, 733.465 783.156, 560.256 727.458, 599.333 685.453, 696.574 813.372, 761.734 "
+fill = "none" stroke = "black"/>
+<polygon points = "129.049, 608.020 138.973, 498.897 32.922, 380.724 1.000, 376.887 1.000, 647.102 "
+fill = "none" stroke = "black"/>
+<polygon points = "380.416, 228.881 396.484, 272.224 454.953, 329.541 493.559, 316.182 479.395, 1.000 437.798, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "913.927, 849.009 857.041, 923.103 852.444, 999.000 999.000, 999.000 999.000, 790.198 "
+fill = "none" stroke = "black"/>
+<polygon points = "266.543, 878.932 340.616, 882.613 335.395, 719.007 299.399, 656.935 263.448, 665.958 240.553, 842.873 "
+fill = "none" stroke = "black"/>
+<polygon points = "940.739, 733.465 813.372, 761.734 823.601, 803.677 913.927, 849.009 999.000, 790.198 999.000, 755.380 "
+fill = "none" stroke = "black"/>
+<circle cx="569.761" cy="590.148" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="724.820" cy="913.649" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="561.770" cy="966.645" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="975.401" cy="203.479" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="938.446" cy="426.058" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="504.750" cy="432.380" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="786.765" cy="816.770" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="155.171" cy="392.836" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="417.881" cy="740.990" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="842.467" cy="837.917" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="20.807" cy="950.232" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="674.151" cy="263.805" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="180.529" cy="784.309" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="607.591" cy="388.689" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="924.526" cy="632.995" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="772.566" cy="904.851" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="243.561" cy="522.826" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="504.513" cy="941.478" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="362.498" cy="799.955" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="521.881" cy="418.439" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="343.677" cy="329.422" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="106.688" cy="748.985" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="60.929" cy="261.112" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="525.552" cy="215.012" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="747.310" cy="204.393" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="664.475" cy="454.469" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="318.756" cy="267.913" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="140.206" cy="858.803" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="305.603" cy="960.621" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="427.614" cy="482.173" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="564.153" cy="870.638" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="458.885" cy="572.625" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="321.839" cy="185.358" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="178.249" cy="899.005" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="842.245" cy="707.853" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="31.784" cy="503.566" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="452.619" cy="218.290" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="943.100" cy="915.180" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="313.508" cy="801.518" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="862.329" cy="798.341" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame9"
+	attributeName = "display"
+	values = "none;none;none;none;none;none;none;none;none;inline;none;none;none;none;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "734.294, 616.663 731.911, 589.595 628.824, 535.630 455.083, 663.088 549.817, 769.137 597.799, 788.796 610.720, 786.983 688.002, 709.756 "
+fill = "none" stroke = "black"/>
+<polygon points = "754.966, 788.653 688.002, 709.756 610.720, 786.983 620.306, 803.448 791.748, 898.726 "
+fill = "none" stroke = "black"/>
+<polygon points = "683.525, 989.880 620.306, 803.448 610.720, 786.983 597.799, 788.796 537.686, 885.715 580.415, 999.000 680.932, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "915.512, 233.959 999.000, 240.403 999.000, 1.000 804.706, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "915.512, 233.959 810.439, 312.885 813.391, 504.085 999.000, 520.569 999.000, 240.403 "
+fill = "none" stroke = "black"/>
+<polygon points = "467.970, 389.767 530.257, 343.327 545.270, 270.715 519.515, 238.321 393.158, 275.607 352.233, 401.401 "
+fill = "none" stroke = "black"/>
+<polygon points = "794.869, 902.782 791.748, 898.726 620.306, 803.448 683.525, 989.880 "
+fill = "none" stroke = "black"/>
+<polygon points = "160.311, 193.574 1.000, 322.846 1.000, 344.409 151.978, 427.546 233.101, 394.373 205.414, 258.578 "
+fill = "none" stroke = "black"/>
+<polygon points = "341.192, 631.821 322.605, 647.387 401.744, 831.294 549.817, 769.137 455.083, 663.088 "
+fill = "none" stroke = "black"/>
+<polygon points = "849.186, 815.629 754.966, 788.653 791.748, 898.726 794.869, 902.782 825.089, 903.821 "
+fill = "none" stroke = "black"/>
+<polygon points = "91.719, 957.149 85.568, 872.655 67.024, 841.828 1.000, 798.764 1.000, 999.000 88.939, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "519.515, 238.321 545.270, 270.715 654.835, 317.254 743.381, 292.822 607.404, 1.000 582.993, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "252.781, 886.519 257.753, 877.889 235.576, 753.620 67.024, 841.828 85.568, 872.655 "
+fill = "none" stroke = "black"/>
+<polygon points = "594.250, 494.528 595.318, 494.978 654.835, 317.254 545.270, 270.715 530.257, 343.327 566.522, 452.379 "
+fill = "none" stroke = "black"/>
+<polygon points = "813.391, 504.085 731.911, 589.595 734.294, 616.663 911.893, 737.363 999.000, 747.981 999.000, 520.569 "
+fill = "none" stroke = "black"/>
+<polygon points = "870.854, 936.403 825.089, 903.821 794.869, 902.782 683.525, 989.880 680.932, 999.000 875.490, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "368.354, 501.606 340.447, 418.461 233.101, 394.373 151.978, 427.546 121.663, 613.353 257.067, 669.089 322.605, 647.387 341.192, 631.821 "
+fill = "none" stroke = "black"/>
+<polygon points = "398.382, 842.892 442.165, 930.182 537.686, 885.715 597.799, 788.796 549.817, 769.137 401.744, 831.294 "
+fill = "none" stroke = "black"/>
+<polygon points = "442.165, 930.182 398.382, 842.892 301.706, 874.783 421.717, 999.000 424.058, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "566.522, 452.379 530.257, 343.327 467.970, 389.767 "
+fill = "none" stroke = "black"/>
+<polygon points = "376.530, 255.142 367.214, 247.223 205.414, 258.578 233.101, 394.373 340.447, 418.461 352.233, 401.401 393.158, 275.607 "
+fill = "none" stroke = "black"/>
+<polygon points = "67.024, 841.828 235.576, 753.620 257.067, 669.089 121.663, 613.353 1.000, 646.854 1.000, 798.764 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 322.846 160.311, 193.574 178.941, 83.228 160.148, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "442.650, 56.347 376.530, 255.142 393.158, 275.607 519.515, 238.321 582.993, 1.000 480.408, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "743.381, 292.822 810.439, 312.885 915.512, 233.959 804.706, 1.000 607.404, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "743.381, 292.822 654.835, 317.254 595.318, 494.978 628.824, 535.630 731.911, 589.595 813.391, 504.085 810.439, 312.885 "
+fill = "none" stroke = "black"/>
+<polygon points = "326.613, 177.631 178.941, 83.228 160.311, 193.574 205.414, 258.578 367.214, 247.223 "
+fill = "none" stroke = "black"/>
+<polygon points = "251.658, 899.563 252.781, 886.519 85.568, 872.655 91.719, 957.149 "
+fill = "none" stroke = "black"/>
+<polygon points = "301.706, 874.783 257.753, 877.889 252.781, 886.519 251.658, 899.563 255.178, 999.000 421.717, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "594.250, 494.528 566.522, 452.379 467.970, 389.767 352.233, 401.401 340.447, 418.461 368.354, 501.606 "
+fill = "none" stroke = "black"/>
+<polygon points = "537.686, 885.715 442.165, 930.182 424.058, 999.000 580.415, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "595.318, 494.978 594.250, 494.528 368.354, 501.606 341.192, 631.821 455.083, 663.088 628.824, 535.630 "
+fill = "none" stroke = "black"/>
+<polygon points = "178.941, 83.228 326.613, 177.631 442.650, 56.347 480.408, 1.000 160.148, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "251.658, 899.563 91.719, 957.149 88.939, 999.000 255.178, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "911.893, 737.363 734.294, 616.663 688.002, 709.756 754.966, 788.653 849.186, 815.629 "
+fill = "none" stroke = "black"/>
+<polygon points = "121.663, 613.353 151.978, 427.546 1.000, 344.409 1.000, 646.854 "
+fill = "none" stroke = "black"/>
+<polygon points = "326.613, 177.631 367.214, 247.223 376.530, 255.142 442.650, 56.347 "
+fill = "none" stroke = "black"/>
+<polygon points = "870.854, 936.403 875.490, 999.000 999.000, 999.000 999.000, 868.871 "
+fill = "none" stroke = "black"/>
+<polygon points = "301.706, 874.783 398.382, 842.892 401.744, 831.294 322.605, 647.387 257.067, 669.089 235.576, 753.620 257.753, 877.889 "
+fill = "none" stroke = "black"/>
+<polygon points = "911.893, 737.363 849.186, 815.629 825.089, 903.821 870.854, 936.403 999.000, 868.871 999.000, 747.981 "
+fill = "none" stroke = "black"/>
+<circle cx="556.231" cy="657.096" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="740.568" cy="841.564" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="594.085" cy="926.851" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="962.118" cy="70.216" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="936.438" cy="402.914" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="478.908" cy="349.297" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="716.180" cy="885.448" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="146.596" cy="312.031" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="437.765" cy="762.922" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="798.281" cy="822.279" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="16.389" cy="930.565" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="636.789" cy="223.774" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="169.142" cy="838.675" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="575.030" cy="369.171" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="916.683" cy="625.356" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="792.747" cy="983.330" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="229.078" cy="513.734" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="475.774" cy="853.469" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="360.582" cy="911.247" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="509.878" cy="390.836" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="280.464" cy="284.738" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="127.823" cy="759.721" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="41.568" cy="182.599" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="425.164" cy="167.169" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="759.075" cy="166.794" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="687.280" cy="406.762" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="276.075" cy="222.193" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="162.405" cy="919.935" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="336.121" cy="934.880" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="486.744" cy="427.250" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="522.502" cy="953.850" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="491.166" cy="568.405" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="345.844" cy="113.055" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="169.904" cy="940.763" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="809.514" cy="783.046" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="51.482" cy="484.759" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="390.276" cy="155.565" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="955.022" cy="971.312" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="327.330" cy="810.445" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="889.637" cy="847.241" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame10"
+	attributeName = "display"
+	values = "none;none;none;none;none;none;none;none;none;none;inline;none;none;none;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "477.728, 676.388 513.970, 769.933 548.609, 841.625 645.729, 803.326 679.572, 618.094 "
+fill = "none" stroke = "black"/>
+<polygon points = "880.614, 744.321 720.573, 575.649 713.433, 575.817 679.572, 618.094 645.729, 803.326 664.342, 818.373 847.803, 760.746 "
+fill = "none" stroke = "black"/>
+<polygon points = "545.688, 845.701 559.655, 959.380 722.684, 927.976 722.662, 903.695 709.457, 877.356 664.342, 818.373 645.729, 803.326 548.609, 841.625 "
+fill = "none" stroke = "black"/>
+<polygon points = "971.220, 206.045 999.000, 206.695 999.000, 1.000 790.859, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "971.220, 206.045 841.330, 285.613 832.858, 492.586 999.000, 510.474 999.000, 206.695 "
+fill = "none" stroke = "black"/>
+<polygon points = "333.454, 260.343 334.004, 406.751 347.851, 420.203 522.306, 314.046 552.316, 272.098 493.291, 154.387 "
+fill = "none" stroke = "black"/>
+<polygon points = "722.684, 927.976 559.655, 959.380 548.708, 999.000 750.294, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "122.823, 162.778 1.000, 250.164 1.000, 354.736 146.097, 389.177 177.802, 241.035 "
+fill = "none" stroke = "black"/>
+<polygon points = "391.645, 790.879 397.272, 812.439 440.767, 861.638 545.688, 845.701 548.609, 841.625 513.970, 769.933 "
+fill = "none" stroke = "black"/>
+<polygon points = "847.803, 760.746 664.342, 818.373 709.457, 877.356 "
+fill = "none" stroke = "black"/>
+<polygon points = "47.147, 946.184 98.260, 833.398 1.000, 653.966 1.000, 991.950 "
+fill = "none" stroke = "black"/>
+<polygon points = "506.502, 94.143 493.291, 154.387 552.316, 272.098 662.683, 302.082 727.122, 260.314 659.551, 1.000 553.085, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "221.862, 928.866 260.323, 918.038 262.377, 911.797 260.164, 894.047 228.595, 819.719 98.260, 833.398 47.147, 946.184 "
+fill = "none" stroke = "black"/>
+<polygon points = "647.477, 496.998 662.683, 302.082 552.316, 272.098 522.306, 314.046 545.136, 377.364 "
+fill = "none" stroke = "black"/>
+<polygon points = "832.858, 492.586 720.573, 575.649 880.614, 744.321 897.403, 753.968 999.000, 733.895 999.000, 510.474 "
+fill = "none" stroke = "black"/>
+<polygon points = "865.320, 846.927 722.662, 903.695 722.684, 927.976 750.294, 999.000 882.399, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "378.446, 487.120 347.851, 420.203 334.004, 406.751 171.476, 406.414 112.340, 626.154 268.563, 674.968 341.425, 644.759 352.370, 634.084 "
+fill = "none" stroke = "black"/>
+<polygon points = "352.370, 634.084 341.425, 644.759 391.645, 790.879 513.970, 769.933 477.728, 676.388 "
+fill = "none" stroke = "black"/>
+<polygon points = "411.191, 914.910 262.377, 911.797 260.323, 918.038 275.807, 999.000 433.046, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "438.166, 486.905 545.136, 377.364 522.306, 314.046 347.851, 420.203 378.446, 487.120 "
+fill = "none" stroke = "black"/>
+<polygon points = "320.494, 247.154 177.802, 241.035 146.097, 389.177 171.476, 406.414 334.004, 406.751 333.454, 260.343 "
+fill = "none" stroke = "black"/>
+<polygon points = "228.595, 819.719 268.563, 674.968 112.340, 626.154 1.000, 653.589 1.000, 653.966 98.260, 833.398 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 250.164 122.823, 162.778 177.569, 24.519 173.238, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "367.601, 102.954 300.791, 200.670 320.494, 247.154 333.454, 260.343 493.291, 154.387 506.502, 94.143 "
+fill = "none" stroke = "black"/>
+<polygon points = "727.122, 260.314 841.330, 285.613 971.220, 206.045 790.859, 1.000 659.551, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "727.122, 260.314 662.683, 302.082 647.477, 496.998 648.223, 503.952 713.433, 575.817 720.573, 575.649 832.858, 492.586 841.330, 285.613 "
+fill = "none" stroke = "black"/>
+<polygon points = "200.682, 47.764 177.569, 24.519 122.823, 162.778 177.802, 241.035 320.494, 247.154 300.791, 200.670 "
+fill = "none" stroke = "black"/>
+<polygon points = "260.323, 918.038 221.862, 928.866 161.612, 999.000 275.807, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "411.191, 914.910 440.767, 861.638 397.272, 812.439 260.164, 894.047 262.377, 911.797 "
+fill = "none" stroke = "black"/>
+<polygon points = "648.223, 503.952 647.477, 496.998 545.136, 377.364 438.166, 486.905 "
+fill = "none" stroke = "black"/>
+<polygon points = "559.655, 959.380 545.688, 845.701 440.767, 861.638 411.191, 914.910 433.046, 999.000 548.708, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "648.223, 503.952 438.166, 486.905 378.446, 487.120 352.370, 634.084 477.728, 676.388 679.572, 618.094 713.433, 575.817 "
+fill = "none" stroke = "black"/>
+<polygon points = "177.569, 24.519 200.682, 47.764 367.601, 102.954 506.502, 94.143 553.085, 1.000 173.238, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "221.862, 928.866 47.147, 946.184 1.000, 991.950 1.000, 999.000 161.612, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "865.320, 846.927 888.344, 792.318 897.403, 753.968 880.614, 744.321 847.803, 760.746 709.457, 877.356 722.662, 903.695 "
+fill = "none" stroke = "black"/>
+<polygon points = "112.340, 626.154 171.476, 406.414 146.097, 389.177 1.000, 354.736 1.000, 653.589 "
+fill = "none" stroke = "black"/>
+<polygon points = "200.682, 47.764 300.791, 200.670 367.601, 102.954 "
+fill = "none" stroke = "black"/>
+<polygon points = "897.403, 753.968 888.344, 792.318 999.000, 974.157 999.000, 733.895 "
+fill = "none" stroke = "black"/>
+<polygon points = "397.272, 812.439 391.645, 790.879 341.425, 644.759 268.563, 674.968 228.595, 819.719 260.164, 894.047 "
+fill = "none" stroke = "black"/>
+<polygon points = "888.344, 792.318 865.320, 846.927 882.399, 999.000 999.000, 999.000 999.000, 974.157 "
+fill = "none" stroke = "black"/>
+<circle cx="562.028" cy="733.389" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="748.753" cy="767.505" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="632.292" cy="911.569" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="943.389" cy="19.926" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="934.718" cy="390.660" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="452.841" cy="282.991" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="644.855" cy="976.787" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="127.017" cy="265.221" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="455.474" cy="784.872" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="762.678" cy="811.838" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="16.797" cy="830.680" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="620.547" cy="198.897" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="154.007" cy="892.861" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="574.129" cy="369.761" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="910.686" cy="613.858" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="813.047" cy="911.405" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="213.731" cy="529.116" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="453.836" cy="775.307" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="360.808" cy="960.931" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="517.964" cy="390.013" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="214.240" cy="283.888" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="140.447" cy="763.656" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="27.130" cy="125.970" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="359.087" cy="141.562" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="790.172" cy="154.697" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="739.670" cy="382.676" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="217.775" cy="201.459" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="182.757" cy="994.983" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="362.777" cy="866.822" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="533.136" cy="404.829" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="477.605" cy="930.575" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="518.659" cy="583.220" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="354.277" cy="65.731" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="162.396" cy="977.491" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="783.038" cy="835.993" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="73.345" cy="491.335" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="334.714" cy="124.898" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="962.974" cy="878.499" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="333.021" cy="816.830" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="930.593" cy="898.204" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame11"
+	attributeName = "display"
+	values = "none;none;none;none;none;none;none;none;none;none;none;inline;none;none;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "528.809, 717.428 519.717, 728.531 534.920, 855.910 628.547, 858.383 656.684, 831.521 644.796, 707.878 638.143, 699.317 "
+fill = "none" stroke = "black"/>
+<polygon points = "864.109, 729.594 871.484, 715.579 783.044, 525.328 724.739, 515.948 682.154, 543.236 638.143, 699.317 644.796, 707.878 809.102, 752.284 "
+fill = "none" stroke = "black"/>
+<polygon points = "714.439, 861.852 656.684, 831.521 628.547, 858.383 615.728, 999.000 725.225, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "886.088, 280.483 999.000, 273.289 999.000, 1.000 856.077, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "886.088, 280.483 882.079, 282.412 862.094, 490.935 999.000, 508.360 999.000, 273.289 "
+fill = "none" stroke = "black"/>
+<polygon points = "417.227, 146.039 302.767, 305.016 332.091, 396.852 525.397, 306.892 547.885, 280.124 501.855, 125.320 "
+fill = "none" stroke = "black"/>
+<polygon points = "628.547, 858.383 534.920, 855.910 491.826, 911.201 455.076, 999.000 615.728, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "74.502, 173.265 1.000, 207.990 1.000, 391.341 14.260, 391.451 158.318, 271.067 "
+fill = "none" stroke = "black"/>
+<polygon points = "440.109, 761.040 438.213, 780.212 491.826, 911.201 534.920, 855.910 519.717, 728.531 "
+fill = "none" stroke = "black"/>
+<polygon points = "772.876, 841.255 809.102, 752.284 644.796, 707.878 656.684, 831.521 714.439, 861.852 "
+fill = "none" stroke = "black"/>
+<polygon points = "72.165, 831.790 110.057, 647.987 1.000, 610.644 1.000, 876.337 "
+fill = "none" stroke = "black"/>
+<polygon points = "501.855, 125.320 547.885, 280.124 705.076, 295.246 731.785, 269.049 711.393, 1.000 575.599, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "176.682, 932.335 1.000, 948.849 1.000, 999.000 222.196, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "706.879, 409.942 705.076, 295.246 547.885, 280.124 525.397, 306.892 558.076, 395.955 "
+fill = "none" stroke = "black"/>
+<polygon points = "862.094, 490.935 783.044, 525.328 871.484, 715.579 999.000, 670.390 999.000, 508.360 "
+fill = "none" stroke = "black"/>
+<polygon points = "934.941, 883.091 864.109, 729.594 809.102, 752.284 772.876, 841.255 865.605, 948.952 "
+fill = "none" stroke = "black"/>
+<polygon points = "113.992, 647.017 272.454, 689.868 284.332, 684.209 375.832, 519.019 326.904, 419.103 188.330, 448.469 "
+fill = "none" stroke = "black"/>
+<polygon points = "411.992, 531.277 375.832, 519.019 284.332, 684.209 355.684, 736.811 440.109, 761.040 519.717, 728.531 528.809, 717.428 "
+fill = "none" stroke = "black"/>
+<polygon points = "401.119, 853.067 357.787, 830.888 287.038, 885.094 318.829, 999.000 440.918, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "557.647, 508.741 558.076, 395.955 525.397, 306.892 332.091, 396.852 326.904, 419.103 375.832, 519.019 411.992, 531.277 "
+fill = "none" stroke = "black"/>
+<polygon points = "263.926, 269.197 158.318, 271.067 14.260, 391.451 188.330, 448.469 326.904, 419.103 332.091, 396.852 302.767, 305.016 "
+fill = "none" stroke = "black"/>
+<polygon points = "162.756, 842.861 233.873, 814.790 272.454, 689.868 113.992, 647.017 110.057, 647.987 72.165, 831.790 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 207.990 74.502, 173.265 151.860, 78.671 161.037, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "330.557, 89.901 248.067, 218.384 263.926, 269.197 302.767, 305.016 417.227, 146.039 "
+fill = "none" stroke = "black"/>
+<polygon points = "731.785, 269.049 882.079, 282.412 886.088, 280.483 856.077, 1.000 711.393, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "731.785, 269.049 705.076, 295.246 706.879, 409.942 724.739, 515.948 783.044, 525.328 862.094, 490.935 882.079, 282.412 "
+fill = "none" stroke = "black"/>
+<polygon points = "248.067, 218.384 151.860, 78.671 74.502, 173.265 158.318, 271.067 263.926, 269.197 "
+fill = "none" stroke = "black"/>
+<polygon points = "287.038, 885.094 233.873, 814.790 162.756, 842.861 176.682, 932.335 222.196, 999.000 318.829, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "357.787, 830.888 401.119, 853.067 438.213, 780.212 440.109, 761.040 355.684, 736.811 "
+fill = "none" stroke = "black"/>
+<polygon points = "706.879, 409.942 558.076, 395.955 557.647, 508.741 682.154, 543.236 724.739, 515.948 "
+fill = "none" stroke = "black"/>
+<polygon points = "438.213, 780.212 401.119, 853.067 440.918, 999.000 455.076, 999.000 491.826, 911.201 "
+fill = "none" stroke = "black"/>
+<polygon points = "557.647, 508.741 411.992, 531.277 528.809, 717.428 638.143, 699.317 682.154, 543.236 "
+fill = "none" stroke = "black"/>
+<polygon points = "330.557, 89.901 417.227, 146.039 501.855, 125.320 575.599, 1.000 269.980, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "176.682, 932.335 162.756, 842.861 72.165, 831.790 1.000, 876.337 1.000, 948.849 "
+fill = "none" stroke = "black"/>
+<polygon points = "865.605, 948.952 772.876, 841.255 714.439, 861.852 725.225, 999.000 845.066, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "110.057, 647.987 113.992, 647.017 188.330, 448.469 14.260, 391.451 1.000, 391.341 1.000, 610.644 "
+fill = "none" stroke = "black"/>
+<polygon points = "151.860, 78.671 248.067, 218.384 330.557, 89.901 269.980, 1.000 161.037, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "871.484, 715.579 864.109, 729.594 934.941, 883.091 999.000, 882.709 999.000, 670.390 "
+fill = "none" stroke = "black"/>
+<polygon points = "287.038, 885.094 357.787, 830.888 355.684, 736.811 284.332, 684.209 272.454, 689.868 233.873, 814.790 "
+fill = "none" stroke = "black"/>
+<polygon points = "934.941, 883.091 865.605, 948.952 845.066, 999.000 999.000, 999.000 999.000, 882.709 "
+fill = "none" stroke = "black"/>
+<circle cx="579.918" cy="813.615" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="763.280" cy="671.119" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="671.012" cy="909.035" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="919.557" cy="163.173" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="934.175" cy="392.596" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="436.127" cy="243.856" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="577.622" cy="900.521" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="97.961" cy="259.844" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="481.232" cy="825.394" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="728.632" cy="799.317" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="23.025" cy="736.844" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="621.670" cy="188.687" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="139.575" cy="954.496" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="602.886" cy="383.950" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="907.243" cy="604.195" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="833.830" cy="842.151" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="208.249" cy="566.551" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="424.430" cy="686.296" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="362.976" cy="863.383" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="516.137" cy="415.781" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="158.641" cy="332.457" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="154.850" cy="764.021" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="22.519" cy="100.161" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="318.467" cy="159.143" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="828.475" cy="172.954" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="810.004" cy="380.695" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="156.468" cy="209.703" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="210.832" cy="905.846" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="387.179" cy="816.094" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="599.864" cy="416.099" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="439.218" cy="842.590" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="546.171" cy="609.899" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="388.802" cy="50.555" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="136.096" cy="917.478" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="764.708" cy="901.666" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="95.758" cy="524.433" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="272.630" cy="129.714" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="969.399" cy="779.592" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="327.763" cy="817.422" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="970.631" cy="986.172" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame12"
+	attributeName = "display"
+	values = "none;none;none;none;none;none;none;none;none;none;none;none;inline;none;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "679.247, 868.239 602.536, 800.684 572.311, 838.106 526.528, 999.000 626.621, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "822.539, 678.913 860.279, 503.889 793.550, 465.247 665.099, 565.157 703.376, 668.598 779.181, 696.445 "
+fill = "none" stroke = "black"/>
+<polygon points = "828.050, 901.612 785.088, 860.071 679.247, 868.239 626.621, 999.000 693.813, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "757.247, 309.410 762.522, 327.180 915.826, 372.087 999.000, 336.900 999.000, 238.447 "
+fill = "none" stroke = "black"/>
+<polygon points = "915.826, 372.087 886.039, 500.824 999.000, 519.016 999.000, 336.900 "
+fill = "none" stroke = "black"/>
+<polygon points = "374.810, 153.129 344.546, 397.013 532.980, 336.921 555.554, 307.680 527.521, 166.889 "
+fill = "none" stroke = "black"/>
+<polygon points = "502.182, 713.723 466.448, 777.077 438.557, 855.339 572.311, 838.106 602.536, 800.684 595.740, 755.726 "
+fill = "none" stroke = "black"/>
+<polygon points = "9.924, 217.485 1.000, 218.911 1.000, 413.559 151.871, 343.557 "
+fill = "none" stroke = "black"/>
+<polygon points = "438.557, 855.339 420.407, 876.797 369.509, 990.112 367.128, 999.000 526.528, 999.000 572.311, 838.106 "
+fill = "none" stroke = "black"/>
+<polygon points = "779.181, 696.445 703.376, 668.598 595.740, 755.726 602.536, 800.684 679.247, 868.239 785.088, 860.071 "
+fill = "none" stroke = "black"/>
+<polygon points = "61.779, 754.973 127.427, 681.120 1.000, 538.404 1.000, 773.885 "
+fill = "none" stroke = "black"/>
+<polygon points = "527.521, 166.889 555.554, 307.680 748.632, 299.580 763.826, 1.000 639.354, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "275.661, 968.959 180.185, 888.939 1.000, 933.505 1.000, 999.000 298.962, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "748.632, 299.580 555.554, 307.680 532.980, 336.921 599.272, 481.603 763.224, 352.759 762.522, 327.180 757.247, 309.410 "
+fill = "none" stroke = "black"/>
+<polygon points = "886.039, 500.824 860.279, 503.889 822.539, 678.913 876.824, 690.814 999.000, 598.228 999.000, 519.016 "
+fill = "none" stroke = "black"/>
+<polygon points = "973.891, 798.155 876.824, 690.814 822.539, 678.913 779.181, 696.445 785.088, 860.071 828.050, 901.612 863.645, 920.013 "
+fill = "none" stroke = "black"/>
+<polygon points = "195.329, 513.561 129.137, 680.620 253.978, 715.981 267.923, 713.862 308.860, 693.783 309.253, 693.453 311.991, 689.592 280.114, 474.773 "
+fill = "none" stroke = "black"/>
+<polygon points = "499.181, 577.593 324.869, 414.525 314.811, 417.223 280.114, 474.773 311.991, 689.592 473.984, 672.346 "
+fill = "none" stroke = "black"/>
+<polygon points = "369.509, 990.112 420.407, 876.797 376.307, 773.752 309.253, 693.453 308.860, 693.783 "
+fill = "none" stroke = "black"/>
+<polygon points = "604.333, 533.591 599.272, 481.603 532.980, 336.921 344.546, 397.013 324.869, 414.525 499.181, 577.593 "
+fill = "none" stroke = "black"/>
+<polygon points = "218.477, 338.114 151.871, 343.557 1.000, 413.559 1.000, 500.279 195.329, 513.561 280.114, 474.773 314.811, 417.223 "
+fill = "none" stroke = "black"/>
+<polygon points = "169.245, 845.895 253.978, 715.981 129.137, 680.620 127.427, 681.120 61.779, 754.973 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 218.911 9.924, 217.485 113.977, 164.974 156.104, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "324.977, 99.349 201.846, 252.960 218.477, 338.114 314.811, 417.223 324.869, 414.525 344.546, 397.013 374.810, 153.129 "
+fill = "none" stroke = "black"/>
+<polygon points = "748.632, 299.580 757.247, 309.410 999.000, 238.447 999.000, 1.000 763.826, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "886.039, 500.824 915.826, 372.087 762.522, 327.180 763.224, 352.759 793.550, 465.247 860.279, 503.889 "
+fill = "none" stroke = "black"/>
+<polygon points = "201.846, 252.960 113.977, 164.974 9.924, 217.485 151.871, 343.557 218.477, 338.114 "
+fill = "none" stroke = "black"/>
+<polygon points = "267.923, 713.862 253.978, 715.981 169.245, 845.895 180.185, 888.939 275.661, 968.959 "
+fill = "none" stroke = "black"/>
+<polygon points = "473.984, 672.346 311.991, 689.592 309.253, 693.453 376.307, 773.752 466.448, 777.077 502.182, 713.723 "
+fill = "none" stroke = "black"/>
+<polygon points = "763.224, 352.759 599.272, 481.603 604.333, 533.591 665.099, 565.157 793.550, 465.247 "
+fill = "none" stroke = "black"/>
+<polygon points = "376.307, 773.752 420.407, 876.797 438.557, 855.339 466.448, 777.077 "
+fill = "none" stroke = "black"/>
+<polygon points = "604.333, 533.591 499.181, 577.593 473.984, 672.346 502.182, 713.723 595.740, 755.726 703.376, 668.598 665.099, 565.157 "
+fill = "none" stroke = "black"/>
+<polygon points = "324.977, 99.349 374.810, 153.129 527.521, 166.889 639.354, 1.000 291.552, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "180.185, 888.939 169.245, 845.895 61.779, 754.973 1.000, 773.885 1.000, 933.505 "
+fill = "none" stroke = "black"/>
+<polygon points = "863.645, 920.013 828.050, 901.612 693.813, 999.000 893.915, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "127.427, 681.120 129.137, 680.620 195.329, 513.561 1.000, 500.279 1.000, 538.404 "
+fill = "none" stroke = "black"/>
+<polygon points = "113.977, 164.974 201.846, 252.960 324.977, 99.349 291.552, 1.000 156.104, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "876.824, 690.814 973.891, 798.155 999.000, 794.956 999.000, 598.228 "
+fill = "none" stroke = "black"/>
+<polygon points = "369.509, 990.112 308.860, 693.783 267.923, 713.862 275.661, 968.959 298.962, 999.000 367.128, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "973.891, 798.155 863.645, 920.013 893.915, 999.000 999.000, 999.000 999.000, 794.956 "
+fill = "none" stroke = "black"/>
+<circle cx="604.437" cy="898.914" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="779.657" cy="573.906" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="711.951" cy="942.184" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="900.983" cy="330.476" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="935.352" cy="411.717" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="437.452" cy="242.728" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="506.105" cy="819.495" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="64.418" cy="309.299" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="512.985" cy="872.891" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="700.218" cy="790.152" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="32.847" cy="653.295" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="639.770" cy="202.445" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="121.340" cy="958.424" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="648.289" cy="405.492" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="904.884" cy="600.908" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="864.695" cy="784.213" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="208.460" cy="622.406" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="391.551" cy="595.236" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="361.833" cy="804.998" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="509.620" cy="469.027" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="121.561" cy="432.456" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="166.147" cy="771.785" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="33.092" cy="113.261" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="292.168" cy="224.699" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="866.793" cy="213.997" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="880.877" cy="399.113" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="107.528" cy="260.760" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="238.315" cy="818.855" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="409.633" cy="765.082" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="684.814" cy="451.970" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="408.904" cy="784.853" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="583.830" cy="646.368" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="452.460" cy="76.172" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="95.645" cy="855.115" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="753.452" cy="999.388" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="111.212" cy="583.874" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="209.772" cy="158.653" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="970.969" cy="688.112" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="303.841" cy="816.867" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="998.662" cy="905.415" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame13"
+	attributeName = "display"
+	values = "none;none;none;none;none;none;none;none;none;none;none;none;none;inline;none;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+<g>
+<polygon points = "698.237, 937.047 656.909, 888.431 598.314, 874.942 579.503, 999.000 691.743, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "817.273, 360.330 807.823, 355.727 748.151, 445.799 820.007, 571.867 834.427, 558.236 834.344, 398.788 "
+fill = "none" stroke = "black"/>
+<polygon points = "874.990, 935.682 698.237, 937.047 691.743, 999.000 928.473, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "940.008, 542.962 959.476, 529.626 889.985, 445.250 834.344, 398.788 834.427, 558.236 "
+fill = "none" stroke = "black"/>
+<polygon points = "889.985, 445.250 959.476, 529.626 999.000, 523.360 999.000, 424.387 "
+fill = "none" stroke = "black"/>
+<polygon points = "335.990, 109.817 324.008, 166.374 396.811, 380.894 454.843, 402.911 543.743, 386.747 575.212, 340.137 557.442, 239.940 "
+fill = "none" stroke = "black"/>
+<polygon points = "531.958, 705.021 416.503, 739.413 422.393, 814.326 448.069, 878.480 550.104, 837.786 559.559, 783.835 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 312.566 1.000, 493.366 21.895, 491.791 141.163, 438.516 "
+fill = "none" stroke = "black"/>
+<polygon points = "550.104, 837.786 448.069, 878.480 406.297, 919.253 373.183, 999.000 579.503, 999.000 598.314, 874.942 "
+fill = "none" stroke = "black"/>
+<polygon points = "782.536, 769.082 766.024, 684.889 559.559, 783.835 550.104, 837.786 598.314, 874.942 656.909, 888.431 "
+fill = "none" stroke = "black"/>
+<polygon points = "27.131, 708.182 101.147, 607.419 21.895, 491.791 1.000, 493.366 1.000, 708.192 "
+fill = "none" stroke = "black"/>
+<polygon points = "557.442, 239.940 575.212, 340.137 776.312, 316.338 812.155, 1.000 722.565, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "192.349, 885.379 117.918, 839.074 1.000, 918.945 1.000, 999.000 223.176, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "776.312, 316.338 575.212, 340.137 543.743, 386.747 635.380, 553.403 641.507, 554.892 748.151, 445.799 807.823, 355.727 "
+fill = "none" stroke = "black"/>
+<polygon points = "940.008, 542.962 834.427, 558.236 820.007, 571.867 760.388, 645.991 768.592, 673.113 923.033, 679.371 "
+fill = "none" stroke = "black"/>
+<polygon points = "923.033, 679.371 768.592, 673.113 766.024, 684.889 782.536, 769.082 852.920, 844.044 999.000, 728.530 999.000, 721.950 "
+fill = "none" stroke = "black"/>
+<polygon points = "158.241, 723.993 207.054, 745.488 316.486, 694.992 336.276, 648.985 338.474, 628.996 239.158, 554.616 212.070, 578.349 "
+fill = "none" stroke = "black"/>
+<polygon points = "413.428, 601.894 454.843, 402.911 396.811, 380.894 220.597, 458.240 239.158, 554.616 338.474, 628.996 "
+fill = "none" stroke = "black"/>
+<polygon points = "406.297, 919.253 448.069, 878.480 422.393, 814.326 320.114, 728.307 305.280, 810.026 "
+fill = "none" stroke = "black"/>
+<polygon points = "635.380, 553.403 543.743, 386.747 454.843, 402.911 413.428, 601.894 524.926, 640.650 "
+fill = "none" stroke = "black"/>
+<polygon points = "101.147, 607.419 212.070, 578.349 239.158, 554.616 220.597, 458.240 188.321, 433.056 141.163, 438.516 21.895, 491.791 "
+fill = "none" stroke = "black"/>
+<polygon points = "97.105, 742.487 117.918, 839.074 192.349, 885.379 231.303, 823.493 207.054, 745.488 158.241, 723.993 "
+fill = "none" stroke = "black"/>
+<polygon points = "1.000, 254.210 82.527, 244.007 196.741, 1.000 1.000, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "180.911, 309.221 188.321, 433.056 220.597, 458.240 396.811, 380.894 324.008, 166.374 "
+fill = "none" stroke = "black"/>
+<polygon points = "776.312, 316.338 807.823, 355.727 817.273, 360.330 999.000, 327.125 999.000, 1.000 812.155, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "817.273, 360.330 834.344, 398.788 889.985, 445.250 999.000, 424.387 999.000, 327.125 "
+fill = "none" stroke = "black"/>
+<polygon points = "180.911, 309.221 82.527, 244.007 1.000, 254.210 1.000, 312.566 141.163, 438.516 188.321, 433.056 "
+fill = "none" stroke = "black"/>
+<polygon points = "305.280, 810.026 320.114, 728.307 316.486, 694.992 207.054, 745.488 231.303, 823.493 "
+fill = "none" stroke = "black"/>
+<polygon points = "524.926, 640.650 413.428, 601.894 338.474, 628.996 336.276, 648.985 416.503, 739.413 531.958, 705.021 "
+fill = "none" stroke = "black"/>
+<polygon points = "641.507, 554.892 760.388, 645.991 820.007, 571.867 748.151, 445.799 "
+fill = "none" stroke = "black"/>
+<polygon points = "336.276, 648.985 316.486, 694.992 320.114, 728.307 422.393, 814.326 416.503, 739.413 "
+fill = "none" stroke = "black"/>
+<polygon points = "766.024, 684.889 768.592, 673.113 760.388, 645.991 641.507, 554.892 635.380, 553.403 524.926, 640.650 531.958, 705.021 559.559, 783.835 "
+fill = "none" stroke = "black"/>
+<polygon points = "335.990, 109.817 557.442, 239.940 722.565, 1.000 314.470, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "117.918, 839.074 97.105, 742.487 27.131, 708.182 1.000, 708.192 1.000, 918.945 "
+fill = "none" stroke = "black"/>
+<polygon points = "852.920, 844.044 782.536, 769.082 656.909, 888.431 698.237, 937.047 874.990, 935.682 "
+fill = "none" stroke = "black"/>
+<polygon points = "97.105, 742.487 158.241, 723.993 212.070, 578.349 101.147, 607.419 27.131, 708.182 "
+fill = "none" stroke = "black"/>
+<polygon points = "82.527, 244.007 180.911, 309.221 324.008, 166.374 335.990, 109.817 314.470, 1.000 196.741, 1.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "959.476, 529.626 940.008, 542.962 923.033, 679.371 999.000, 721.950 999.000, 523.360 "
+fill = "none" stroke = "black"/>
+<polygon points = "406.297, 919.253 305.280, 810.026 231.303, 823.493 192.349, 885.379 223.176, 999.000 373.183, 999.000 "
+fill = "none" stroke = "black"/>
+<polygon points = "852.920, 844.044 874.990, 935.682 928.473, 999.000 999.000, 999.000 999.000, 728.530 "
+fill = "none" stroke = "black"/>
+<circle cx="629.468" cy="983.330" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="788.202" cy="492.679" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="755.914" cy="996.586" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="880.584" cy="492.632" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="938.290" cy="445.105" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="451.789" cy="266.804" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="449.731" cy="751.833" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="32.766" cy="389.169" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="536.430" cy="969.223" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="673.724" cy="791.086" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="48.025" cy="591.625" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="665.889" cy="228.833" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="105.900" cy="909.324" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="689.364" cy="427.201" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="897.284" cy="608.070" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="891.599" cy="748.355" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="224.013" cy="687.355" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="362.275" cy="502.740" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="359.488" cy="787.951" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="499.894" cy="531.382" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="105.580" cy="552.177" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="175.623" cy="797.248" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="57.941" cy="155.345" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="283.748" cy="323.833" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="903.557" cy="255.848" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="934.930" cy="427.548" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="80.551" cy="335.992" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="262.290" cy="770.307" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="437.518" cy="710.834" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="768.079" cy="504.149" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="385.624" cy="756.874" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="625.426" cy="690.306" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="529.488" cy="134.571" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="48.107" cy="824.725" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="754.987" cy="876.625" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="132.105" cy="653.387" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="166.478" cy="206.358" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="965.473" cy="616.555" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="279.045" cy="862.347" r="1" stroke="red" stroke-width="1" fill="red" />
+<circle cx="954.948" cy="828.467" r="1" stroke="red" stroke-width="1" fill="red" />
+<animate
+	id = "frame14"
+	attributeName = "display"
+	values = "none;none;none;none;none;none;none;none;none;none;none;none;none;none;inline;none"
+	keyTimes = "0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1"
+	dur = "5s"
+	begin = "0s"
+	repeatCount = "indefinite"/>
+</g>
+</g>
+</svg>

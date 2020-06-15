@@ -9,6 +9,16 @@ std::vector<double> uniform_lambda(const std::vector<Vector>& points) {
     return lambdas;
 }
 
+std::vector<double> fluid_lambda(const std::vector<Vector>& points, double mf, double ma) {
+    std::vector<double> lambdas;
+    int n = int(points.size());
+    for (int i = 0; i < n - 1; i ++) {
+        lambdas.push_back(mf / (n - 1));
+    }
+    lambdas.push_back(ma);
+    return lambdas;
+}
+
 std::vector<double> normal_lambda(const std::vector<Vector>& points) {
     Vector center(0.5, 0.5);
     std::vector<double> lambdas;
