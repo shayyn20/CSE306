@@ -37,6 +37,9 @@ int main(int argc, char** argv) {
         std::vector<Vector> points = generateRandomPoints(50, generator);
         std::vector<Polygon> p = voronoiParalLinEnum(points);
         save_svg_with_point(p, points, "vor.svg");
+        points = lloydIteration_vor(points);
+        p = voronoiParalLinEnum(points);
+        save_svg_with_point(p, points, "vor_lloyd.svg");
         return 0;
     }
 
@@ -48,8 +51,8 @@ int main(int argc, char** argv) {
         //                                                0.05,               0.04,                0.03,               0.02,
         //                                                0.01};
         Generator generator;
-        std::vector<Vector> points = generateRandomPoints(50, generator);
-        std::vector<double> weights = generateRandomWeights(50, generator);
+        std::vector<Vector> points = generateRandomPoints(100, generator);
+        std::vector<double> weights = generateRandomWeights(100, generator);
         std::vector<Polygon> p = powerDiagram(points, weights);
         save_svg_with_point(p, points, "power.svg");
         return 0;
@@ -74,7 +77,7 @@ int main(int argc, char** argv) {
         save_svg(p, "ga1.svg");
         return 0;
     }
-    
+
     if ((argc > 1) && (!strcmp(argv[1], "l"))) {
         Generator generator;
         std::vector<Vector> points = generateRandomPoints(50, generator);

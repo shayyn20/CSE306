@@ -103,7 +103,7 @@ void simulation(double dt = 0.0005, double eps = 0.04) {
     // std::vector<double> wf = pw.fluid;
     // std::vector<Polygon> p = powerDiagram(pos, wf);
 
-    std::vector<Polygon> p; // = voronoiParalLinEnum(pos);
+    std::vector<Polygon> p = voronoiParalLinEnum(pos);
     save_svg_animated_with_point(p, pos, "fluid.svg", 0, 40);
     // save_frame(p, "fluid", 0);
     for (int i = 1; i < 40; i ++) {
@@ -113,7 +113,7 @@ void simulation(double dt = 0.0005, double eps = 0.04) {
         // pw = optimalTransport_fluid(pos, 1);
         // wf = pw.fluid;
         // p = powerDiagram(pos, wf);
-        // p = voronoiParalLinEnum(pos);
+        p = voronoiParalLinEnum(pos);
         // save_frame(p, "fluid", i);
         save_svg_animated_with_point(p, pos, "fluid.svg", i, 40);
     }
