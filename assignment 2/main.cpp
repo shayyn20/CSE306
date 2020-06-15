@@ -1,6 +1,7 @@
 #include "include.h"
 
 int main(int argc, char** argv) {
+
     if ((argc > 1) && (!strcmp(argv[1], "sh"))) {
         Polygon p = Polygon({   Vector(0.05, 0.15), Vector(0.2, 0.05), Vector(0.35, 0.15), Vector(0.35, 0.3), 
                                 Vector(0.25, 0.3), Vector(0.2, 0.25), Vector(0.15, 0.35), Vector(0.1, 0.25),
@@ -15,6 +16,7 @@ int main(int argc, char** argv) {
         save_svg({p}, "test2.svg");
         return 0;
     }
+
     if ((argc > 1) && (!strcmp(argv[1], "t"))) {
 
         std::vector<Vector> points = {  Vector(0.05, 0.15), Vector(0.2, 0.05), Vector(0.35, 0.15), Vector(0.35, 0.3), 
@@ -26,6 +28,7 @@ int main(int argc, char** argv) {
         
         return 0;
     }
+
     if ((argc > 1) && (!strcmp(argv[1], "vor"))) {
         // std::vector<Vector> points = {  Vector(0.05, 0.15), Vector(0.2, 0.05), Vector(0.35, 0.15), Vector(0.35, 0.3), 
         //                                 Vector(0.25, 0.3), Vector(0.2, 0.25), Vector(0.15, 0.35), Vector(0.1, 0.25),
@@ -36,6 +39,7 @@ int main(int argc, char** argv) {
         save_svg_with_point(p, points, "vor.svg");
         return 0;
     }
+
     if ((argc > 1) && (!strcmp(argv[1], "pow"))) {
         // std::vector<Vector> points = {  Vector(0.05, 0.15), Vector(0.2, 0.05), Vector(0.35, 0.15), Vector(0.35, 0.3), 
         //                                 Vector(0.25, 0.3), Vector(0.2, 0.25), Vector(0.15, 0.35), Vector(0.1, 0.25),
@@ -50,6 +54,7 @@ int main(int argc, char** argv) {
         save_svg_with_point(p, points, "power.svg");
         return 0;
     }
+
     if ((argc > 1) && (!strcmp(argv[1], "ga"))) {
         std::vector<Vector> points = {  Vector(0.05, 0.15), Vector(0.2, 0.05), Vector(0.35, 0.15), Vector(0.35, 0.3), 
                                         Vector(0.25, 0.3), Vector(0.2, 0.25), Vector(0.15, 0.35), Vector(0.1, 0.25),
@@ -70,16 +75,29 @@ int main(int argc, char** argv) {
         return 0;
     }
     
-    // std::vector<Vector> points = {  Vector(0.05, 0.15), Vector(0.2, 0.05), Vector(0.35, 0.15), Vector(0.35, 0.3), 
-    //                                 Vector(0.25, 0.3), Vector(0.2, 0.25), Vector(0.15, 0.35), Vector(0.1, 0.25),
-    //                                 Vector(0.1, 0.2)};
+    if ((argc > 1) && (!strcmp(argv[1], "l"))) {
+        Generator generator;
+        std::vector<Vector> points = generateRandomPoints(50, generator);
+        std::vector<Polygon> p = voronoiParalLinEnum(points);
+        save_svg_with_point(p, points, "lloyd_vor.svg");
+        points = lloydIteration_vor(points);
+        p = voronoiParalLinEnum(points);
+        save_svg_with_point(p, points, "lloyd_vor2.svg");
+        return 0;
+    }
 
-    Generator generator;
-    std::vector<Vector> points = generateRandomPoints(500, generator, false);
-    std::vector<double> weights = optimalTransport(points, 1);
-    std::vector<Polygon> p = voronoiParalLinEnum(points);
-    save_svg_with_point(p, points, "ot.svg");
-    p = powerDiagram(points, weights);
-    save_svg_with_point(p, points, "ot2.svg");
-    return 0;
+    if ((argc > 1) && (!strcmp(argv[1], "ot"))) {
+        Generator generator;
+        std::vector<Vector> points = generateRandomPoints(100, generator, false);
+        // points = lloydIteration_vor(points);
+        std::vector<double> weights = optimalTransport(points, 1, "normal");
+        std::vector<Polygon> p = voronoiParalLinEnum(points);
+        save_svg_with_point(p, points, "ot.svg");
+        p = powerDiagram(points, weights);
+        save_svg_with_point(p, points, "ot2.svg");
+        return 0;
+    }
+
+    simulation();
+    return 0;  
 }

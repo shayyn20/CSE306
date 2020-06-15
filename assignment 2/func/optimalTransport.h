@@ -6,6 +6,7 @@ protected:
     lbfgsfloatval_t *m_x;
     std::vector<Vector> points;
     std::vector<double> lambdas;
+    lbfgs_parameter_t para;
     double f;
 
 
@@ -19,12 +20,20 @@ public:
         }
     }
 
-    std::vector<double> run(const std::vector<Vector>& points, const double f) {
+    std::vector<double> run(const std::vector<Vector>& points, const double f, std::string l_type) {
         lbfgsfloatval_t fx;
         int N = int(points.size());
         this->points = points;
         this->f = f;
-        this->lambdas = normal_lambda(points);
+        if (l_type == "normal") {
+            this->lambdas = normal_lambda(points);
+        }
+        else {
+            this->lambdas = uniform_lambda(points);
+        }
+
+        lbfgs_parameter_init(&this->para);
+        this->para.max_iterations = 100;
 
         lbfgsfloatval_t *m_x = lbfgs_malloc(N);
         /* Initialize the weights. */
@@ -32,14 +41,14 @@ public:
             m_x[i] = 0.1;
         }
 
-        int ret = lbfgs(N, m_x, &fx, _evaluate, NULL, this, NULL);
+        int ret = lbfgs(N, m_x, &fx, _evaluate, NULL, this, &para);
 
         /* Report the result. */
         printf("L-BFGS optimization terminated with status code = %d\n", ret);
         printf("  fx = %f \n", fx);
-        for (int i = 0; i < N; i ++) {
-            printf("x[%d] = %f \n", i, m_x[i]);
-        }
+        // for (int i = 0; i < N; i ++) {
+        //     printf("x[%d] = %f \n", i, m_x[i]);
+        // }
         std::vector<double> res;
         for (int i = 0; i < N; i ++) {
             res.push_back(m_x[i]);
@@ -54,6 +63,7 @@ protected:
     }
 
     lbfgsfloatval_t evaluate(const lbfgsfloatval_t *x, lbfgsfloatval_t *g, const int n, const lbfgsfloatval_t step) {
+        
         lbfgsfloatval_t fx = 0.0;
 
         std::vector<double> weights;
@@ -74,7 +84,7 @@ protected:
     }
 };
 
-std::vector<double> optimalTransport(const std::vector<Vector>& points, const double f = 1) {
+std::vector<double> optimalTransport(const std::vector<Vector>& points, const double f = 1, std::string l_type = "uniform") {
     objective_function obj;
-    return obj.run(points, f);
+    return obj.run(points, f, l_type);
 }
