@@ -1,11 +1,13 @@
-#include "g.h"
+#include "optimalTransport_aux.h"
 #include "../lib/lbfgs.c"
 
 class objective_function {
 protected:
     lbfgsfloatval_t *m_x;
     std::vector<Vector> points;
+    std::vector<double> lambdas;
     double f;
+
 
 public:
     objective_function() : m_x(NULL) {}
@@ -17,16 +19,17 @@ public:
         }
     }
 
-    std::vector<double> run(std::vector<Vector>& points, double f) {
+    std::vector<double> run(const std::vector<Vector>& points, const double f) {
         lbfgsfloatval_t fx;
         int N = int(points.size());
         this->points = points;
         this->f = f;
+        this->lambdas = normal_lambda(points);
 
         lbfgsfloatval_t *m_x = lbfgs_malloc(N);
         /* Initialize the weights. */
         for (int i = 0; i < N; i ++) {
-            m_x[i] = 1;
+            m_x[i] = 0.1;
         }
 
         int ret = lbfgs(N, m_x, &fx, _evaluate, NULL, this, NULL);
@@ -56,25 +59,22 @@ protected:
         std::vector<double> weights;
         for (int i = 0; i < n; i ++) {
             weights.push_back(x[i]);
-            //printf("w[%d] = %f \n", i, x[i]);
         }
 
         std::vector<Polygon> cells = powerDiagram(points, weights);
 
         for (int i = 0; i < n; i ++) {
-            g[i] = - g_grad(points[i], cells[i], f);
-            // printf("grad = %f \n", g[i]);
+            g[i] = - g_grad(points[i], cells[i], lambdas[i], f);
         }
 
-        fx = - g_func(points, weights, f);
+        fx = - g_func(points, weights, lambdas, f);
         printf("g = %f \n", fx);
 
         return fx;
     }
 };
 
-std::vector<double> optimalTransport(std::vector<Vector>& points, double f = 1) {
+std::vector<double> optimalTransport(const std::vector<Vector>& points, const double f = 1) {
     objective_function obj;
     return obj.run(points, f);
 }
-

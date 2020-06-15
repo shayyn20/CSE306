@@ -1,4 +1,4 @@
-#include "ot.h"
+#include "optimalTransport.h"
 
 std::vector<double> gradAscent(std::vector<Vector>& points, std::vector<double>& weights, double f, 
                                 double step = 0.0001, double tol = 0.00002, int maxit = 1000) {

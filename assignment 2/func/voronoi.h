@@ -1,4 +1,4 @@
-#include "sh_vor.h"
+#include "sutherlandHodgman_vor.h"
 
 #define QUAD Polygon({Vector(0.001,0.001), Vector(0.999,0.001), Vector(0.999,0.999), Vector(0.001,0.999)});
 

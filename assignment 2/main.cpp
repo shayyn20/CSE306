@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
     //                                 Vector(0.1, 0.2)};
 
     Generator generator;
-    std::vector<Vector> points = generateRandomPoints(200, generator);
+    std::vector<Vector> points = generateRandomPoints(500, generator, false);
     std::vector<double> weights = optimalTransport(points, 1);
     std::vector<Polygon> p = voronoiParalLinEnum(points);
     save_svg_with_point(p, points, "ot.svg");

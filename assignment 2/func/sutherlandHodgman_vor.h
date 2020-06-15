@@ -1,4 +1,4 @@
-#include "sh.h"
+#include "sutherlandHodgman.h"
 
 // modified for voronoi parallel linear enumeration
 Vector intersect_vor(Edge& edge, Vector& Pi, Vector& Pj) {
