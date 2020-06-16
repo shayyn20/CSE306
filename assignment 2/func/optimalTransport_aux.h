@@ -13,7 +13,7 @@ std::vector<double> fluid_lambda(const std::vector<Vector>& points, double mf, d
     std::vector<double> lambdas;
     int n = int(points.size());
     for (int i = 0; i < n - 1; i ++) {
-        lambdas.push_back(mf / (n - 1));
+        lambdas.push_back(mf / double(n));
     }
     lambdas.push_back(ma);
     return lambdas;

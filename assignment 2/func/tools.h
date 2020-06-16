@@ -38,3 +38,12 @@ Vector centroid(Polygon cell) {
     cy /= (6 * A);
     return Vector(cx, cy);
 }
+
+template<typename T>
+std::vector<T> concatenate(std::vector<T>& v1, std::vector<T>& v2) {
+    std::vector<T> v;
+    v.reserve(v1.size() + v2.size()); // preallocate memory
+    v.insert(v.end(), v1.begin(), v1.end());
+    v.insert(v.end(), v2.begin(), v2.end());
+    return v;
+}

@@ -45,7 +45,7 @@ void save_svg_with_point(const std::vector<Polygon> &polygons, std::vector<Vecto
 // Adds one frame of an animated svg file. frameid is the frame number (between 0 and nbframes-1).
 // polygons is a list of polygons, describing the current frame.
 // The polygon vertices are supposed to be in the range [0..1], and a canvas of size 1000x1000 is created
-void save_svg_animated(const std::vector<Polygon> &polygons, std::string filename, int frameid, int nbframes) {
+void save_svg_animated(const std::vector<Polygon> &polygons, std::string filename, int frameid, int nbframes, std::string fillcol = "none") {
 	FILE* f;
 	if (frameid == 0) {
 		f = fopen(filename.c_str(), "w+");
@@ -60,7 +60,7 @@ void save_svg_animated(const std::vector<Polygon> &polygons, std::string filenam
 		for (int j = 0; j < int(polygons[i].vertices.size()); j++) {
 			fprintf(f, "%3.3f, %3.3f ", (polygons[i].vertices[j][0] * 1000), (1000-polygons[i].vertices[j][1] * 1000));
 		}
-		fprintf(f, "\"\nfill = \"none\" stroke = \"black\"/>\n");
+		fprintf(f, "\"\nfill = \"%s\" stroke = \"black\"/>\n", fillcol.c_str());
 	}
 	fprintf(f, "<animate\n");
 	fprintf(f, "	id = \"frame%u\"\n", frameid);
@@ -90,7 +90,7 @@ void save_svg_animated(const std::vector<Polygon> &polygons, std::string filenam
 	fclose(f);
 }
 
-void save_svg_animated_with_point(const std::vector<Polygon> &polygons, std::vector<Vector> &points, std::string filename, int frameid, int nbframes) {
+void save_svg_animated_with_point(const std::vector<Polygon> &polygons, std::vector<Vector> &points, std::string filename, int frameid, int nbframes, std::string fillcol = "none") {
 	FILE* f;
 	if (frameid == 0) {
 		f = fopen(filename.c_str(), "w+");
@@ -105,7 +105,7 @@ void save_svg_animated_with_point(const std::vector<Polygon> &polygons, std::vec
 		for (int j = 0; j < int(polygons[i].vertices.size()); j++) {
 			fprintf(f, "%3.3f, %3.3f ", (polygons[i].vertices[j][0] * 1000), (1000-polygons[i].vertices[j][1] * 1000));
 		}
-		fprintf(f, "\"\nfill = \"none\" stroke = \"black\"/>\n");
+		fprintf(f, "\"\nfill = \"%s\" stroke = \"black\"/>\n", fillcol.c_str());
 	}
 	for (int i=0; i<int(points.size()); i++) {
 	    fprintf(f, "<circle cx=\"%3.3f\" cy=\"%3.3f\" r=\"1\" stroke=\"red\" stroke-width=\"1\" fill=\"red\" />\n", (points[i][0] * 1000), (1000 - points[i][1] * 1000)); 

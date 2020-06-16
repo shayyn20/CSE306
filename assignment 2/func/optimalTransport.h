@@ -20,36 +20,17 @@ public:
         }
     }
 
-    std::vector<double> run(const std::vector<Vector>& points, const double f, std::string l_type) {
+    std::vector<double> run(const std::vector<Vector>& points, std::vector<double> lambdas, const double f) {
         lbfgsfloatval_t fx;
-        int N = int(points.size());
+        int N = int(lambdas.size());
         this->points = points;
         this->f = f;
         lbfgsfloatval_t *m_x = lbfgs_malloc(N);
+        this->lambdas = lambdas;
 
-        if (l_type == "normal") {
-            this->lambdas = normal_lambda(points);
-            /* Initialize the weights. */
-            for (int i = 0; i < N; i ++) {
-                m_x[i] = 0.1;
-            }
-        }
-
-        if (l_type == "fluid") {
-            this->lambdas = fluid_lambda(points, 0.4, 0.6);
-            /* Initialize the weights. */
-            for (int i = 0; i < N+1; i ++) {
-                m_x[i] = 0.1;
-            }
-            N ++;
-        }
-
-        else {
-            this->lambdas = uniform_lambda(points);
-            /* Initialize the weights. */
-            for (int i = 0; i < N; i ++) {
-                m_x[i] = 0.1;
-            }
+        /* Initialize the weights. */
+        for (int i = 0; i < N; i ++) {
+            m_x[i] = 0.1;
         }
 
         lbfgs_parameter_init(&this->para);
@@ -97,20 +78,20 @@ protected:
 
 std::vector<double> optimalTransport(const std::vector<Vector>& points, const double f = 1, std::string l_type = "uniform") {
     objective_function obj;
-    return obj.run(points, f, l_type);
+    return obj.run(points, uniform_lambda(points), f);
 }
 
-// struct ParticleWeight {
-//     std::vector<double> fluid;
-//     double air;
-// };
-// 
-// ParticleWeight optimalTransport_fluid(std::vector<Vector>& points, const double f = 1) {
-//     ParticleWeight res;
-//     objective_function obj;
-//     std::vector<double> weights = obj.run(points, f, "fluid");
-//     res.air = weights[int(weights.size()) - 1];
-//     weights.erase(weights.begin() + (int(weights.size()) - 1));
-//     res.fluid = weights;
-//     return res;
-// }
+struct ParticleWeight {
+    std::vector<double> fluid;
+    double air;
+};
+
+ParticleWeight optimalTransport_fluid(std::vector<Vector>& points, std::vector<double> lambdas, const double f = 1) {
+    ParticleWeight res;
+    objective_function obj;
+    std::vector<double> weights = obj.run(points, lambdas, f); // the last weight is for the air cells.
+    res.air = weights[int(weights.size()) - 1];
+    weights.erase(weights.begin() + (int(weights.size()) - 1));
+    res.fluid = weights;
+    return res;
+}
