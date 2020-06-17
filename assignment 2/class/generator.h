@@ -8,9 +8,9 @@ bool isInRectangle(Vector point) {
 	return point[0] >= 0 && point[1] >= 0 && point[0] <= 1 && point[1] <= 1;
 }
 
-bool isInCircle(Vector point, double r = 0.5) {
-	double fx = point[0] - r;
-	double fy = point[1] - r;
+bool isInCircle(Vector point, double r, Vector center) {
+	double fx = point[0] - center[0];
+	double fy = point[1] - center[1];
 	return (fx*fx + fy*fy) <= r*r;
 }
 
@@ -59,26 +59,26 @@ std::vector<double> generateRandomWeights(int numPoints, Generator& generator, d
 }
 
 
-std::vector<Vector> generateRandomPoints(int numPoints, Generator& generator, bool isCircle = true) {
+std::vector<Vector> generateRandomPoints(int numPoints, Generator& generator, bool isCircle = true, double r = 0.5, Vector center = Vector(0.5, 0.5)) {
 	std::vector<Vector> samplePoints;
 	for (int i = 0; i < numPoints; i ++) {
 		Vector point;
 		do {
 			point = Vector(generator.randomDouble(), generator.randomDouble());
-		} while (!(isCircle ? isInCircle(point) : isInRectangle(point)));
+		} while (!(isCircle ? isInCircle(point, r, center) : isInRectangle(point)));
 		samplePoints.push_back(point);
 	}
 	return samplePoints;
 }
 
-std::vector<Vector> generateVastRandomPoints(int numPoints, Generator& generator, bool isCircle = true) {
+std::vector<Vector> generateVastRandomPoints(int numPoints, Generator& generator, bool isCircle = true, double r = 0.5, Vector center = Vector(0.5, 0.5)) {
 	std::vector<Vector> samplePoints;
 	double minDist = sqrt(double(numPoints)) / double(numPoints);
 	for (int i = 0; i < numPoints; i ++) {
 		Vector point;
 		do {
 			point = Vector(generator.randomDouble(), generator.randomDouble());
-		} while (!(isCircle ? isInCircle(point) : isInRectangle(point)) && !isVast(point, samplePoints, minDist));
+		} while (!(isCircle ? isInCircle(point, r, center) : isInRectangle(point)) && !isVast(point, samplePoints, minDist));
 		samplePoints.push_back(point);
 	}
 	return samplePoints;

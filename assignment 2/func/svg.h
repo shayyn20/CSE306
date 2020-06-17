@@ -138,6 +138,58 @@ void save_svg_animated_with_point(const std::vector<Polygon> &polygons, std::vec
 	fclose(f);
 }
 
+void save_svg_animated_fluid(const std::vector<Polygon> &polygons, std::string filename, int frameid, int nbframes, int nbFluid, std::string fillcolFluid = "blue", std::string fillcolAir = "none") {
+	FILE* f;
+	if (frameid == 0) {
+		f = fopen(filename.c_str(), "w+");
+		fprintf(f, "<svg xmlns = \"http://www.w3.org/2000/svg\" width = \"1000\" height = \"1000\">\n");
+		fprintf(f, "<g>\n");
+	} else {
+		f = fopen(filename.c_str(), "a+");
+	}
+	fprintf(f, "<g>\n");
+	for (int i = 0; i < nbFluid; i++) {
+		fprintf(f, "<polygon points = \""); 
+		for (int j = 0; j < int(polygons[i].vertices.size()); j++) {
+			fprintf(f, "%3.3f, %3.3f ", (polygons[i].vertices[j][0] * 1000), (1000-polygons[i].vertices[j][1] * 1000));
+		}
+		fprintf(f, "\"\nfill = \"%s\" stroke = \"black\"/>\n", fillcolFluid.c_str());
+	}
+	for (int i = nbFluid; i < int(polygons.size()); i++) {
+		fprintf(f, "<polygon points = \""); 
+		for (int j = 0; j < int(polygons[i].vertices.size()); j++) {
+			fprintf(f, "%3.3f, %3.3f ", (polygons[i].vertices[j][0] * 1000), (1000-polygons[i].vertices[j][1] * 1000));
+		}
+		fprintf(f, "\"\nfill = \"%s\" stroke = \"black\"/>\n", fillcolAir.c_str());
+	}
+	fprintf(f, "<animate\n");
+	fprintf(f, "	id = \"frame%u\"\n", frameid);
+	fprintf(f, "	attributeName = \"display\"\n");
+	fprintf(f, "	values = \"");
+	for (int j = 0; j < nbframes; j++) {
+		if (frameid == j) {
+			fprintf(f, "inline");
+		} else {
+			fprintf(f, "none");
+		}
+		fprintf(f, ";");
+	}
+	fprintf(f, "none\"\n	keyTimes = \"");
+	for (int j = 0; j < nbframes; j++) {
+		fprintf(f, "%2.3f", j / (double)(nbframes));
+		fprintf(f, ";");
+	}
+	fprintf(f, "1\"\n	dur = \"5s\"\n");
+	fprintf(f, "	begin = \"0s\"\n");
+	fprintf(f, "	repeatCount = \"indefinite\"/>\n");
+	fprintf(f, "</g>\n");
+	if (frameid == nbframes - 1) {
+		fprintf(f, "</g>\n");
+		fprintf(f, "</svg>\n");
+	}
+	fclose(f);
+}
+
 int sgn(double d){
     return d<0? -1 : d>0;
 }

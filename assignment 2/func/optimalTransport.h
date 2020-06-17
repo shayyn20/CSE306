@@ -30,7 +30,7 @@ public:
 
         /* Initialize the weights. */
         for (int i = 0; i < N; i ++) {
-            m_x[i] = 0.1;
+            m_x[i] = 0.001;
         }
 
         lbfgs_parameter_init(&this->para);
@@ -42,9 +42,9 @@ public:
         printf("L-BFGS optimization terminated with status code = %d\n", ret);
         printf("  fx = %f \n", fx);
 
-        std::vector<double> res;
+        std::vector<double> res(N, 0);
         for (int i = 0; i < N; i ++) {
-            res.push_back(m_x[i]);
+            res[i] = m_x[i];
         }
         
         return res;
@@ -59,18 +59,25 @@ protected:
         
         lbfgsfloatval_t fx = 0.0;
 
-        std::vector<double> weights;
+        std::vector<double> weights(n, 0);
+        
         for (int i = 0; i < n; i ++) {
-            weights.push_back(x[i]);
+            weights[i] = x[i];
         }
-
+        
+        double areaSum = 0;
         std::vector<Polygon> cells = powerDiagram(points, weights);
-        for (int i = 0; i < n; i ++) {
-            g[i] = - g_grad(points[i], cells[i], lambdas[i], f);   
+        for (int i = 0; i < n-1; i ++) {
+            areaSum += weights[i];
         }
+        
+        for (int i = 0; i < n - 1; i ++) {
+            g[i] = - g_grad(points[i], cells[i], lambdas[i], f);
+        }
+        g[n-1] = lambdas[n - 1] - areaSum;
 
         fx = - g_func(points, weights, lambdas, f);
-        printf("g = %f \n", fx);
+        // printf("g = %f \n", fx);
 
         return fx;
     }
@@ -87,6 +94,7 @@ struct ParticleWeight {
 };
 
 ParticleWeight optimalTransport_fluid(std::vector<Vector>& points, std::vector<double> lambdas, const double f = 1) {
+    // lambdas is of size len(points) + 1
     ParticleWeight res;
     objective_function obj;
     std::vector<double> weights = obj.run(points, lambdas, f); // the last weight is for the air cells.

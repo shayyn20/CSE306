@@ -5,7 +5,7 @@ Vector Fg(0, -100);
 
 std::vector<Particle> init_fluid(int N, double mass) {
     std::vector<Particle> fluid;
-    std::vector<Vector> pos = generateRandomPoints(N, generator);
+    std::vector<Vector> pos = generateRandomPoints(N, generator, true, 0.2);
     for (int i = 0; i < N; i ++) {
         Vector v;
         fluid.push_back(Particle(pos[i], v, mass / N));
@@ -93,7 +93,7 @@ std::vector<Particle> gallouetMerigot(std::vector<Particle> particles, double dt
     return retrieve_particles(pos, v, m);
 }
 
-void simulation(double dt = 0.0005, double eps = 0.04, int N = 80, double mf = 0.4, int M = 120, double ma = 0.6) {
+void simulation(double dt = 0.0005, double eps = 0.04, int N = 50, double mf = 0.2, int M = 200, double ma = 0.8) {
     std::vector<Particle> fluid = init_fluid(N, mf);
     std::vector<Particle> air = init_air(M, ma);
 
@@ -101,26 +101,37 @@ void simulation(double dt = 0.0005, double eps = 0.04, int N = 80, double mf = 0
     std::vector<Vector> apos = get_position(air);
 
     std::vector<double> lambdas = fluid_lambda(fpos, mf, ma);
+    // for (int j = 0; j < int(lambdas.size()); j ++) {
+    //     printf("lambdas[%d] = %f \n", j, lambdas[j]);
+    // }
 
     ParticleWeight pw = optimalTransport_fluid(fpos, lambdas, 1);
     std::vector<double> wf = pw.fluid;
     std::vector<double> wa(int(air.size()), pw.air/double(air.size()));
 
+    // for (int j = 0; j < int(wf.size()); j ++) {
+    //     printf("wf[%d] = %f \n", j, wf[j]);
+    // }
+    // for (int j = 0; j < int(wa.size()); j ++) {
+    //     printf("wa[%d] = %f \n", j, wa[j]);
+    // }
+
+    // fpos = lloydIteration_pow(fpos, wf);
     apos = lloydIteration_pow(apos, wa);
     std::vector<Vector> pos = concatenate(fpos, apos); 
     std::vector<double> w = concatenate(wf, wa);
 
     std::vector<Polygon> p = powerDiagram(pos, w);
 
-    // std::vector<Polygon> pf = powerDiagram(fpos, wf);
-    // apos = lloydIteration_pow(apos, wa);
-    // std::vector<Polygon> pa = powerDiagram(apos, wa);
+    int maxit = 100;
+    //std::string filename("fluid%d.svg", 0);
+    //save_svg_with_point(p, pos, filename);
 
-    save_svg_animated_with_point(p, pos, "fluid.svg", 0, 10);
-
+    save_svg_animated_fluid(p, "fluid.svg", 0, maxit, int(fpos.size()));
+    // save_svg_animated_with_point(p, pos, "fluid.svg", 0, maxit);
     // save_frame(p, "fluid", 0);
 
-    for (int i = 1; i < 10; i ++) {
+    for (int i = 1; i < maxit; i ++) {
         fluid = gallouetMerigot(fluid, dt, eps);
         fpos = get_position(fluid);
         apos = get_position(air);
@@ -129,6 +140,14 @@ void simulation(double dt = 0.0005, double eps = 0.04, int N = 80, double mf = 0
         wf = pw.fluid;
         wa = std::vector<double>(int(air.size()), pw.air/double(air.size()));
 
+        // for (int j = 0; j < int(wf.size()); j ++) {
+        //     printf("wf[%d] = %f \n", j, wf[j]);
+        // }
+        // for (int j = 0; j < int(wa.size()); j ++) {
+        //     printf("wa[%d] = %f \n", j, wa[j]);
+        // }
+
+        // fpos = lloydIteration_pow(fpos, wf);
         apos = lloydIteration_pow(apos, wa);
 
         pos = concatenate(fpos, apos); 
@@ -136,11 +155,11 @@ void simulation(double dt = 0.0005, double eps = 0.04, int N = 80, double mf = 0
 
         p = powerDiagram(pos, w);
 
-        // std::vector<Polygon> pf = powerDiagram(fpos, wf);
-        // apos = lloydIteration_pow(apos, wa);
-        // std::vector<Polygon> pa = powerDiagram(apos, wa);
-
-        save_svg_animated_with_point(p, pos, "fluid.svg", i, 10);
+        //filename = std::string("fluid%d.svg", i);
+        //save_svg_with_point(p, pos, filename);
+        save_svg_animated_fluid(p, "fluid.svg", i, maxit, int(fpos.size()));
+        // save_svg_animated_with_point(p, pos, "fluid.svg", i, maxit);
+        // save_frame(p, "fluid", i);
     }
 }
 

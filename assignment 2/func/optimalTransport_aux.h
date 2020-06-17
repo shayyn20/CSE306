@@ -10,12 +10,10 @@ std::vector<double> uniform_lambda(const std::vector<Vector>& points) {
 }
 
 std::vector<double> fluid_lambda(const std::vector<Vector>& points, double mf, double ma) {
-    std::vector<double> lambdas;
+    double sum = mf + ma;
     int n = int(points.size());
-    for (int i = 0; i < n - 1; i ++) {
-        lambdas.push_back(mf / double(n));
-    }
-    lambdas.push_back(ma);
+    std::vector<double> lambdas(n + 1, mf / double(n) / sum);
+    lambdas[n] = ma / sum;
     return lambdas;
 }
 
@@ -25,7 +23,6 @@ std::vector<double> normal_lambda(const std::vector<Vector>& points) {
     double sum;
     for (int i = 0; i < int(points.size()); i ++) {
         double l = exp(-norm(points[i] - center)*norm(points[i] - center)/0.02);
-        printf("%f \n ", l);
         lambdas.push_back(l);
         sum += l;
     }
@@ -38,11 +35,17 @@ std::vector<double> normal_lambda(const std::vector<Vector>& points) {
 double g_func(const std::vector<Vector>& points, const std::vector<double>& weights, const std::vector<double>& lambdas, const double f = 1) {
     // function g
     double sum = 0;
+    int n = int(points.size());
     std::vector<Polygon> cells = powerDiagram(points, weights);
-    for (int i = 1; i < int(points.size()); i ++) {
+    double areaSum = 0;
+    for (int i = 1; i < n; i ++) {
         Polygon cell = cells[i];
         double area = polygonArea(cell);
+        areaSum += area;
         sum += f * (integral(cell, points[i]) - weights[i] * area) + lambdas[i] * weights[i];
+    }
+    if (n != int(weights.size())) {
+        sum += (lambdas[n] - areaSum) * weights[n]; 
     }
     return sum;
 }
